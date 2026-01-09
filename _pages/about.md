@@ -6,13 +6,10 @@ title: "About David Florian"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Micaela is a mechanical engineering student. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Mechanical Engineering
 
 ## Technical Skills
 
