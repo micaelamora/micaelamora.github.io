@@ -21,5 +21,5 @@ David can operate a number of different computer controlled (CNC) fabrication to
 * 3D Inkjet Printing
 * Bioplotting
 
-
+![Micaela Mora](/assets/img/IMG_1450.JPG)
 
