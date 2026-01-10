@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Micaela Mora"
 
 ---
 
@@ -21,5 +21,6 @@ David can operate a number of different computer controlled (CNC) fabrication to
 * Etching
 * Deposition
 
-![Micaela Mora](/assets/img/IMG_1450.JPG)
+<img src="/assets/img/IMG_1450.JPG" alt="Micaela Mora" width="200">
+
 
