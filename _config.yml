@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/IMG_1450.JPG"
+  avatar           : <img src="/assets/img/IMG_1450.JPG" alt="Micaela Mora" width="200">
   bio              : "Mechanical Engineering Student "
   location         : "Nashville, TN and Asuncion, Paraguay"
   links:
