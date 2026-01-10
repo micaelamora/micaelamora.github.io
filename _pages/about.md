@@ -31,6 +31,6 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 
 ## Research and Publications
 
-<a href="/assets/files/research-poster.pdf" target="_blank" style="padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
 
 
