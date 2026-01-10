@@ -1,7 +1,7 @@
 ---
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Syringe Pump"
+excerpt: "This prototype can swipe up two three different syringes of different dimensions!"
 collection: portfolio
 layout: single
 header:
