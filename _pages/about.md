@@ -27,6 +27,7 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 ## Technical Skills
 * 3D Printing
 * Fused Filament Fabrication (FFF)
+* Welding
 
 
 <img src="/assets/img/IMG_1450.JPG" alt="Micaela Mora" width="200">
