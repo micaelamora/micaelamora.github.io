@@ -5,8 +5,8 @@ excerpt: "This prototype can swipe up two three different syringes of different 
 collection: portfolio
 layout: single
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/syringe pump.png
+  teaser: /assets/img/syringe pump.png
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
