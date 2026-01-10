@@ -31,10 +31,12 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 
 ## Research and Publications
 * Developing an Electroplating Technique for Soft Lithography
-<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#800080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+  
+<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#7851A9; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
 
-* Developing an Electroplating Technique for Soft Lithography
-<a href="/assets/img/Poster Final Project MAD.pdf" target="_blank" style="padding:10px 20px; background-color:#800080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+* Engine Valve Exhaust-Cam
+  
+<a href="/assets/img/Poster Final Project MAD.pdf" target="_blank" style="padding:10px 20px; background-color:#7851A9; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
 
 
 
