@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "New Born Feeder syringe pump with interchangebles 5ml, 10ml, 15ml"
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
+  image: /assets/img/side by side syringe hold.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
   - image_path: assets/img/Slide-3.png
