@@ -19,9 +19,6 @@ feature_row:
     alt: "placeholder image 2"
     title: "Phone Case"
     excerpt: "A versatile prototype."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
   - image_path: /assets/img/headset.png
     alt: "Head Post for neurosurgery"
     title: "Head Post for Neurosurgery on non-human primates"
