@@ -9,11 +9,11 @@ title: "About Micaela Mora"
 Micaela is a mechanical engineering student. 
 
 * Vanderbilt University
-  * BS Mechanical Engineering
+  * BS Mechanical Engineering (Expected: May 2027)
 
 ## Cleanroom Skills
 
-Micaela can operate a number of different semiconductor manufacturing tools including:
+Micaela can operate a number of different semiconductor manufacturing and characterization tools including:
 
 * AJA Sputter Deposition
 * Angstrom Multimode (e-beam)
