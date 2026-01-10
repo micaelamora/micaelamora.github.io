@@ -15,10 +15,10 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "Built to feed newborn with adjustable syringes."
-  - image_path: /assets/img/phone case.png
-    alt: "placeholder image 2"
-    title: "Phone Case"
+  - title: "Phone Case"
     excerpt: "A versatile prototype."
+    image_path: /assets/img/phone case.png
+    alt: "placeholder image 2"
   - image_path: /assets/img/headset.png
     alt: "Head Post for neurosurgery"
     title: "Head Post for Neurosurgery on non-human primates"
