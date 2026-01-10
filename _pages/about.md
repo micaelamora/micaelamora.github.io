@@ -30,6 +30,8 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 * Welding
 
 
-<img src="/assets/img/IMG_1450.JPG" alt="Micaela Mora" width="200">
+<img src="/assets/img/IMAGE 10X COPPER SAMPLE 6.jpg" alt="Micaela Mora" width="200">
+<img src="/assets/img/IMAGE 10X COPPER SAMPLE 6.jpg" alt="Micaela Mora" width="200">
+
 
 
