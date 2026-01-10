@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+    - "https://www.linkedin.com/in/micaelagonzalezmora"
 
 # Analytics
 analytics:
@@ -104,7 +104,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/micaelamora"
-    - label: "LinkedIn"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-Linkedin"
       url: "https://www.linkedin.com/in/micaelagonzalezmora"
 
