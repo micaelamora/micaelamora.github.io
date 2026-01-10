@@ -16,10 +16,10 @@ Micaela is a mechanical engineering student.
 David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Scanning Electron Microscope (SEM)
+* 3D Printing
+* Etching
+* Deposition
 
 ![Micaela Mora](/assets/img/IMG_1450.JPG)
 
