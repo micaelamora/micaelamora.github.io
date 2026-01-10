@@ -22,7 +22,12 @@ Micaela can operate a number of different semiconductor manufacturing tools incl
 * Spin Coater
 * Mask Aligner
 * Scanning Electron Microscope (SEM)
-* Deposition
+* Photolithography
+
+## Technical Skills
+* 3D Printing
+* Fused Filament Fabrication (FFF)
+
 
 <img src="/assets/img/IMG_1450.JPG" alt="Micaela Mora" width="200">
 
