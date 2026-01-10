@@ -17,7 +17,7 @@ feature_row:
     excerpt: "Built to feed newborn with adjustable syringes."
   - title: "Phone Case"
     excerpt: "A versatile prototype."
-    image_path: <img src="/assets/img/phone case.png" style="height:120px; width:auto;">
+    image_path:<img src="/assets/img/phone case.png" class="project-image">
     alt: "placeholder image 2"
   - image_path: /assets/img/headset.png
     alt: "Head Post for neurosurgery"
