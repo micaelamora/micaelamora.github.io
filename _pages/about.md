@@ -29,10 +29,8 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 * Fused Filament Fabrication (FFF)
 * Welding
 
+## Research and Publications
 
-<div style="display:flex; gap:20px; align-items:center;">
-  <img src="/assets/img/IMAGE 10X COPPER SAMPLE 6.jpg" width="200">
-  <img src="/assets/img/IMAGE 10X COPPER SAMPLE 6.jpg" width="200">
-</div>
+<a href="/assets/files/research-poster.pdf" target="_blank" style="padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
 
 
