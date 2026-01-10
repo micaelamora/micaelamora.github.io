@@ -30,7 +30,8 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 * Welding
 
 ## Research and Publications
+* Developing an Electroplating Technique for Soft Lithography
 
-<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#800080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
 
 
