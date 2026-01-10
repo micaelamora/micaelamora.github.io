@@ -15,7 +15,7 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "Built to feed newborn with adjustable syringes."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: /assets/img/phone case.png
     alt: "placeholder image 2"
     title: "Phone Case"
     excerpt: "A hot plasma stream slices through sheet metal."
