@@ -11,14 +11,17 @@ Micaela is a mechanical engineering student.
 * Vanderbilt University
   * BS Mechanical Engineering
 
-## Technical Skills
+## Cleanroom Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Micaela can operate a number of different semiconductor manufacturing tools including:
 
-* Fused Filament Fabrication (FFF)
+* AJA Sputter Deposition
+* Angstrom Multimode (e-beam)
+* Minilock
+* Profilometer
+* Spin Coater
+* Mask Aligner
 * Scanning Electron Microscope (SEM)
-* 3D Printing
-* Etching
 * Deposition
 
 <img src="/assets/img/IMG_1450.JPG" alt="Micaela Mora" width="200">
