@@ -22,6 +22,10 @@ feature_row:
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
+  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
+    alt: "Head Post for neurosurgery"
+    title: "Head Post for Neurosurgery on non-human primates"
+    excerpt: "Built to study neural activty on mice and monkeys"
 ---
 
 {% include feature_row %}
