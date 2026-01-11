@@ -4,8 +4,8 @@ category: fabrication
 excerpt: "Versatile Design of phone case"
 classes: wide
 header:
-  image: /assets/img/phone case.png
-  teaser: /assets/img/phone case.png
+  image: /assets/img/phone case for iphone 11.png
+  teaser: /assets/img/phone case for iphone 11.png
   overlay_filter: 0
 gallery:
   - image_path: assets/img/phone case.png
