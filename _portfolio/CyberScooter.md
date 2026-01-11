@@ -1,24 +1,32 @@
 ---
 ---
 title: "Syringe Pump"
-excerpt: "This prototype can swipe up two three different syringes of different dimensions!"
-collection: portfolio
-layout: single
+excerpt: "New Born Feeder syringe pump with interchangebles 5ml, 10ml, 15ml"
 header:
-  image: /assets/img/syringe pump.png
-  teaser: /assets/img/syringe pump.png
+  image: /assets/img/Assembly_of_Linear_Actuator_2026-Jan-10_11-08-09PM-000_CustomizedView8386927097_png.png
+  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/syringe pump.png
-    image_path: assets/img/Cyber-Scooter-2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/syringe pump.png
-    image_path: assets/img/Cyber-Scooter-3.jpg
-    alt: "placeholder image 3"
+  - image_path: assets/img/Slide-3.png
+  - image_path: assets/img/Slide-2.png
+  - image_path: assets/img/Slide-4.png
+   
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+# Features
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
+* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
+* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+
+# CAD Model
+<iframe
+  src="https://a360.co/4qGvStc?mode=embed"
+  width="800"
+  height="600"
+  allowfullscreen="true"
+  webkitallowfullscreen="true"
+  mozallowfullscreen="true"
+  frameborder="0">
+</iframe>
+
+{% include gallery caption="Large Format 3D Printer Gallery" %}
