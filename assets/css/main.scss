@@ -24,3 +24,15 @@ search: false
   object-fit: contain; /* prevents ugly cropping */
 }
 
+.phone-case-page .page__hero--image,
+.phone-case-page .page__hero--overlay {
+  max-height: 300px;
+  overflow: hidden;
+}
+
+.phone-case-page .page__hero--image img,
+.phone-case-page .page__hero--overlay img {
+  object-fit: contain;
+}
+
+
