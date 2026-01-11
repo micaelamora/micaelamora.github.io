@@ -1,6 +1,6 @@
 ---
 title: "Phone Case"
-## category: fabrication
+category: fabrication
 excerpt: "Versatile Design of phone case"
 header:
   image: /assets/img/Assembly_of_Linear_Actuator_2026-Jan-10_11-08-09PM-000_CustomizedView8386927097_png.png
