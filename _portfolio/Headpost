@@ -11,7 +11,7 @@ gallery:
   - image_path: /assets/img/headset.png
 ---
 
-# CAD Model
+## CAD Model
 <iframe
   src="https://a360.co/45LegEo"
   width="800"
