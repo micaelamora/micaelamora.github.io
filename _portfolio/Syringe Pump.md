@@ -63,7 +63,7 @@ Interchangeable between 10 mL and 20 mL syringes.
      View Arduino Code
   </a>
 
-  <a href="/assets/img/wiring diagram.jpg
+  <a href="/assets/img/Wiring diagram for the Arduino UNO.pdf
 " target="_blank"
      style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
      View Wiring Diagram
