@@ -20,7 +20,7 @@ gallery:
 
 * **There are 5 buttons and a knob accessible on the syringe pump.** Starting from the left, the first button is the fast forward or mechanical forward button. When pushed and held down, the syringe moves at a rate of 25.65 mL per minute for the 20 mL syringe, and 15.85 mL for the 10 mL syringe. Similarly, the second button, the reverse button, retracts the syringe at the same rates. The third button starts/pauses automatic motion at the default flow rate. The fourth button adjusts the rate for the 10 mL syringe. The fifth button switches flow control to the potentiometer knob.
 Interchangeable between 10 mL and 20 mL syringes.
-* **Smooth and accessible design.** The PLA enclosure protects electronics while making buttons easily accessible. Holes for power wires, latches, and microcontroller connections are tight-fitting to prevent intrusion.Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+* **Smooth and accessible design.** The PLA enclosure protects electronics while making buttons easily accessible. Holes for power wires, latches, and microcontroller connections are tight-fitting to prevent intrusion.
 
 {% include gallery caption="Gallery." %}
 
@@ -35,17 +35,6 @@ Interchangeable between 10 mL and 20 mL syringes.
     mozallowfullscreen="true"
     frameborder="0">
   </iframe>
-
- <h2>Arduino Code</h2>
-
-
- <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080. ; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
-
-
- <h2>Electronics Diagram</h2>
-
-
- <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080. ; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
 
 
  <h2>Table with off the shelf parts</h2>
@@ -65,6 +54,20 @@ Interchangeable between 10 mL and 20 mL syringes.
 | Panel Mount Momentary Push Buttons (On/Off)          | 1             |
 | Limit Switch (On/Off)                                | 1             |
 | RGB Common Cathode LED                               | 1             |
+| Power Supply Quad Output (5V, 12V, 24V, 12V, 4 amp   | 1             |
+
+# Arduino Code
+
+<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+
+# Electronics Diagram
+
+<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+
+# Dimensional Drawings
+
+<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+
 
 
 
