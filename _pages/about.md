@@ -3,6 +3,7 @@
 title: "About Micaela Mora"
 
 ---
+Micaela is an international student from Asuncion, Paraguay studying Mechanical Engineering and Digital Fabrication at Vanderbilt. 
 
 ## Education
 
