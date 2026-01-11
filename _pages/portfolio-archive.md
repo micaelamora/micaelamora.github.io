@@ -5,9 +5,8 @@ permalink: /portfolio/
 classes: wide
 ---
 ## Digital Fabrication Projects
-My digital fabrication projects:
 
-<div class="entries-grid">
+<div class="entries-grid grid__item--3">
 {% assign fab = site.portfolio | where: "category", "fabrication" %}
 {% for post in fab %}
   {% include archive-single.html type="grid" %}
@@ -19,10 +18,12 @@ My digital fabrication projects:
 ## Personal Projects
 Some things I’ve built outside of class:
 
-<div class="entries-grid">
+<div class="entries-grid grid__item--3">
 {% assign personal = site.portfolio | where: "category", "personal" %}
 {% for post in personal %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
+
+
 
