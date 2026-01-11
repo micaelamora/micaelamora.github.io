@@ -9,7 +9,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Micaela Mora is a mechanical engineering student who loves building, testing, and improving how things are made. She’s especially interested in sustainable manufacturing, 3D printing, and materials processing, with hands-on experience in recycling plastic into new filament, thin-film deposition, and lab-scale fabrication. Micaela enjoys taking ideas from concept to reality and finding creative, practical solutions to engineering problems."
+excerpt: "Micaela Mora is a mechanical engineering student who loves building, testing, and improving how things are made. She’s especially interested in sustainable manufacturing, 3D printing, and materials processing, with hands-on experience with thin-film deposition, and lab-scale fabrication."
 feature_row:
   - image_path: /assets/img/syringe pump.png
     alt: "Syringe Pump"
