@@ -20,7 +20,7 @@ Micaela is a mechanical engineering student.
    * Undergraduate Research Assistant (August 2024 - Present)  
   
 
-## Cleanroom Skills
+## Micro/Nano Fabrication Skills
 
 Micaela can operate a number of different semiconductor manufacturing and characterization tools including:
 
