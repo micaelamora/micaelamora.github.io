@@ -13,9 +13,6 @@ gallery:
 <!-- Wrapper for page-specific styling -->
 <div class="syringe-page">
 
-  <!-- Page Title -->
-  <h1>Syringe Pump</h1>
-
   <!-- Features Section -->
   <h2>Features</h2>
 
