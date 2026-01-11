@@ -5,13 +5,10 @@ excerpt: "New Born Feeder syringe pump with interchangebles 5ml, 10ml, 15ml"
 header:
   image: /assets/img/Assembly_of_Linear_Actuator_2026-Jan-10_11-08-09PM-000_CustomizedView8386927097_png.png
   teaser: /assets/img/syringe pump.png
-
 gallery:
   - assets/img/syringe pump.png
   - assets/img/syringe pump.png
   - assets/img/syringe pump.png
-
-   
 ---
 
 # Features
