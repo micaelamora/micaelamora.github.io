@@ -4,11 +4,13 @@ category: fabrication
 excerpt: "Versatile Design of phone case"
 header:
   image: /assets/img/Assembly_of_Linear_Actuator_2026-Jan-10_11-08-09PM-000_CustomizedView8386927097_png.png
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  teaser: /assets/img/phone case.png
+
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/phone case.png
+
+  - image_path: assets/img/phone case.png
+  - image_path: assets/img/phone case.png
    
 ---
 
