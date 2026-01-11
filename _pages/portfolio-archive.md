@@ -15,8 +15,6 @@ classes: wide
 </div>
 
 <div style="clear: both;"></div>
-
-
 ## Personal Projects
 Some things I’ve built outside of class:
 
