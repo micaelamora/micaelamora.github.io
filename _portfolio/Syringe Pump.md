@@ -1,9 +1,10 @@
 ---
 title: "Syringe Pump"
+category: fabrication
 excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
 header:
-  image: /assets/img/syringe pump.png
-  teaser: /assets/img/syringe pump.png
+  image: /assets/img/linear rod actuator final assembly.png
+  teaser: /assets/img/linear rod actuator final assembly.png
 gallery:
   - url: /assets/img/syringe pump finished assembly.png
     image_path: assets/img/syringe pump finished assembly.png
