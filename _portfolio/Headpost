@@ -5,6 +5,7 @@ excerpt: "Head Post used to study neural activities in mice and monkeys"
 header:
   image: /assets/img/headset.png
   teaser: /assets/img/headset.png
+---
 gallery:
   - image_path: assets/img/headset.png
   - image_path: assets/img/headset.png
