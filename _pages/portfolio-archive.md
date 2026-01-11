@@ -13,6 +13,12 @@ classes: wide
 {% endfor %}
 </div>
 
+<div class="entries-grid grid__item--3">
+{% assign fab = site.portfolio | where: "category", "fabrication" %}
+{% for post in fab %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
 ---
 
 ## Personal Projects
