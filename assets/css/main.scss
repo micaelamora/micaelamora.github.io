@@ -12,3 +12,15 @@ search: false
 .page__taxonomy {
   display: none;
 }
+
+.page__hero--overlay,
+.page__hero--image {
+  max-height: 350px;   /* adjust this number to taste */
+  overflow: hidden;
+}
+
+.page__hero--overlay img,
+.page__hero--image img {
+  object-fit: contain; /* prevents ugly cropping */
+}
+
