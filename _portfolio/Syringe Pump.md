@@ -22,6 +22,8 @@ gallery:
 Interchangeable between 10 mL and 20 mL syringes.
 * **Smooth and accessible design.** The PLA enclosure protects electronics while making buttons easily accessible. Holes for power wires, latches, and microcontroller connections are tight-fitting to prevent intrusion.Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
 
+{% include gallery caption="Gallery." %}
+
   <!-- CAD Model Section -->
   <h2>CAD Model</h2>
   <iframe
@@ -36,6 +38,32 @@ Interchangeable between 10 mL and 20 mL syringes.
 
  <h2>Arduino Code</h2>
 
- <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#7851A9; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
+ <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080. ; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+ <h2>Electronics Diagram</h2>
+
+ <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080. ; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
+
+ <h2>Table with off the shelf parts</h2>
+| Supplies      | Quantity                          |
+|---------------|--------------------------------------|
+| 250 mm lead screw with 2 mm pitch and 2 mm lead      | 1             |
+| 250 mm lead screw with 2 mm pitch and 8 mm lead      | 1             |
+| 1/4" x 8mm Flexible Coupling                         | 2             |
+| 200 mm linear rod with 8 mm diameter                 | 2             |
+| 2040 Aluminum Extrusion 1" Length                    | 1             |
+| Nema 17 Stepper Motor                                | 1             |
+| MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24 V 12V 4 Amp                 | 1             |
+| Arduino UNO                                          | 1             |
+| A4988 Stepper Driver                                 | 1             |
+| Small Breadboard                                     | 1             |
+| Panel Mount Latching Push Buttons (On/Off)           | 1             |
+| Panel Mount Momentary Push Buttons (On/Off)          | 1             |
+| Limit Switch (On/Off)                                | 1             |
+| RGB Common Cathode LED                               | 1             |
+
+
+
+ 
+
+
