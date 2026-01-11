@@ -7,11 +7,9 @@ header:
   teaser: /assets/img/syringe pump.png
 
 gallery:
-  - /assets/img/syringe pump.png
-
-  - /assets/img/syringe pump.png
-
-  - /assets/img/syringe pump.png
+  - assets/img/syringe pump.png
+  - assets/img/syringe pump.png
+  - assets/img/syringe pump.png
 
    
 ---
