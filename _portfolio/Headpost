@@ -10,27 +10,35 @@ gallery:
   - image_path: /assets/img/headset.png
   - image_path: /assets/img/headset.png
 ---
-# Head Post
+<!-- Add a wrapper with a unique class for this page -->
+<div class="headpost-page">
 
-## CAD Model
+  <!-- Header Image -->
+  <img src="{{ page.header.image }}" alt="Head Post Header" class="headpost-header" />
 
-<iframe
-  src="https://a360.co/45LegEo"
-  width="800"
-  height="600"
-  allowfullscreen="true"
-  webkitallowfullscreen="true"
-  mozallowfullscreen="true"
-  frameborder="0">
-</iframe>
+  # Head Post
 
-<!-- Gallery Section -->
-<div class="gallery-grid">
-  {% for item in page.gallery %}
-    <a href="{{ item.image_path }}" class="glightbox" data-gallery="headpost">
-      <img src="{{ item.image_path }}" alt="Gallery image" class="gallery-thumb" />
-    </a>
-  {% endfor %}
+  ## CAD Model
+
+  <iframe
+    src="https://a360.co/45LegEo"
+    width="800"
+    height="600"
+    allowfullscreen="true"
+    webkitallowfullscreen="true"
+    mozallowfullscreen="true"
+    frameborder="0">
+  </iframe>
+
+  <!-- Gallery Section -->
+  <div class="gallery-grid">
+    {% for item in page.gallery %}
+      <a href="{{ item.image_path }}" class="glightbox" data-gallery="headpost">
+        <img src="{{ item.image_path }}" alt="Gallery image" class="gallery-thumb" />
+      </a>
+    {% endfor %}
+  </div>
+
 </div>
 
 <!-- GLightbox CSS & JS -->
@@ -43,16 +51,25 @@ gallery:
   });
 </script>
 
-<!-- Gallery Styling -->
+<!-- Page-specific Styling -->
 <style>
-.gallery-grid {
+/* Only applies to Head Post page */
+.headpost-page .headpost-header {
+  width: 300px; /* Make the header smaller */
+  height: auto;
+  display: block;
+  margin: 20px auto; /* Center it */
+}
+
+/* Gallery Grid */
+.headpost-page .gallery-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 15px;
   margin-top: 20px;
 }
 
-.gallery-thumb {
+.headpost-page .gallery-thumb {
   width: 100%;
   height: auto;
   object-fit: cover;
@@ -61,7 +78,7 @@ gallery:
   transition: transform 0.2s ease;
 }
 
-.gallery-thumb:hover {
+.headpost-page .gallery-thumb:hover {
   transform: scale(1.05);
 }
 </style>
