@@ -1,6 +1,5 @@
 ---
----
-title: "Phone Case Folder"
+title: "Phone Case"
 category: fabrication
 excerpt: "Versatile Design of phone case"
 header:
