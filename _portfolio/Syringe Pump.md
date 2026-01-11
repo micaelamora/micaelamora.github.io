@@ -38,22 +38,26 @@ Interchangeable between 10 mL and 20 mL syringes.
 
  <h2>Arduino Code</h2>
 
+
  <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080. ; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
+
 
  <h2>Electronics Diagram</h2>
 
+
  <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080. ; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
 
+
  <h2>Table with off the shelf parts</h2>
-| Supplies      | Quantity                          |
-|---------------|--------------------------------------|
+ 
+| Supplies                                             | Quantity      |
+|------------------------------------------------------|---------------|
 | 250 mm lead screw with 2 mm pitch and 2 mm lead      | 1             |
 | 250 mm lead screw with 2 mm pitch and 8 mm lead      | 1             |
 | 1/4" x 8mm Flexible Coupling                         | 2             |
 | 200 mm linear rod with 8 mm diameter                 | 2             |
 | 2040 Aluminum Extrusion 1" Length                    | 1             |
 | Nema 17 Stepper Motor                                | 1             |
-| MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24 V 12V 4 Amp                 | 1             |
 | Arduino UNO                                          | 1             |
 | A4988 Stepper Driver                                 | 1             |
 | Small Breadboard                                     | 1             |
