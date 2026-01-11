@@ -33,3 +33,9 @@ Interchangeable between 10 mL and 20 mL syringes.
     mozallowfullscreen="true"
     frameborder="0">
   </iframe>
+
+ <h2>Arduino Code</h2>
+
+ <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#7851A9; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
+
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
