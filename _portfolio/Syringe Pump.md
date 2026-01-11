@@ -56,17 +56,25 @@ Interchangeable between 10 mL and 20 mL syringes.
 | RGB Common Cathode LED                               | 1             |
 | Power Supply Quad Output (5V, 12V, 24V, 12V, 4 amp   | 1             |
 
-# Arduino Code
 
-<a href="/assets/img/Arduino Code.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Arduino Code</a>
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <a href="/assets/img/Arduino Code.pdf" target="_blank"
+     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+     View Arduino Code
+  </a>
 
-# Electronics Diagram
+  <a href="/assets/img/wiring diagram.jpg
+" target="_blank"
+     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+     View Wiring Diagram
+  </a>
 
-<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
-
-# Dimensional Drawings
-
-<a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+  <a href="/assets/img/Dimensional Drawings.pdf
+" target="_blank"
+     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+     View Dimensioned Drawings
+  </a>
+</div>
 
 
 
