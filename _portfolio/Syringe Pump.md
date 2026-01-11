@@ -13,9 +13,6 @@ gallery:
 <!-- Wrapper for page-specific styling -->
 <div class="syringe-page">
 
-  <!-- Header Image -->
-  <img src="{{ page.header.image }}" alt="Syringe Pump Header" class="syringe-header" />
-
   <!-- Page Title -->
   <h1>Syringe Pump</h1>
 
