@@ -10,16 +10,19 @@ gallery:
   - image_path: /assets/img/headset.png
   - image_path: /assets/img/headset.png
 ---
-<!-- Add a wrapper with a unique class for this page -->
+<!-- Wrapper for page-specific styling -->
 <div class="headpost-page">
 
   <!-- Header Image -->
   <img src="{{ page.header.image }}" alt="Head Post Header" class="headpost-header" />
 
-  # Head Post
+  <!-- Page Title -->
+  <h1>Head Post</h1>
 
-  ## CAD Model
+  <!-- Section Title -->
+  <h2>CAD Model</h2>
 
+  <!-- CAD Model iframe -->
   <iframe
     src="https://a360.co/45LegEo"
     width="800"
@@ -46,16 +49,20 @@ gallery:
 <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 
 <script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Initialize GLightbox once the page is loaded
   const lightbox = GLightbox({
-    selector: '.glightbox'
+    selector: '.glightbox',
+    closeOnOutsideClick: true
   });
+});
 </script>
 
 <!-- Page-specific Styling -->
 <style>
 /* Only applies to Head Post page */
 .headpost-page .headpost-header {
-  width: 300px; /* Make the header smaller */
+  width: 300px; /* Smaller header image */
   height: auto;
   display: block;
   margin: 20px auto; /* Center it */
