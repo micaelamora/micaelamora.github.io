@@ -11,11 +11,9 @@ header:
 
 gallery:
   - image_path: assets/img/phone case.png
-
   - image_path: assets/img/phone case.png
   - image_path: assets/img/phone case.png
    
----
 ---
 
 # Features
