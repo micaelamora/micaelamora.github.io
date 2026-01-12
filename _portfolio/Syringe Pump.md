@@ -1,21 +1,30 @@
 ---
 title: "Syringe Pump"
+layout: single
+classes: wide
+author_profile: false
+sidebar:
+  nav: false
+
 category: fabrication
 excerpt: "Syringe Pump with interchangeable 5mL, 10mL, and 20mL syringes"
+
 header:
   image: /assets/img/linear rod actuator final assembly.png
-  teaser:  /assets/img/linear rod actuator final assembly.png
+  teaser: /assets/img/linear rod actuator final assembly.png
+
 gallery:
-   - url: /assets/img/syringe pump finished assembly.png
-    image_path: assets/img/syringe pump finished assembly.png
-    alt: "placeholder image 1"
+  - url: /assets/img/syringe pump finished assembly.png
+    image_path: /assets/img/syringe pump finished assembly.png
+    alt: "Finished assembly"
   - url: /assets/img/side by side syringe hold.jpg
-    image_path: assets/img/side by side syringe hold.jpg
-    alt: "placeholder image 2"
+    image_path: /assets/img/side by side syringe hold.jpg
+    alt: "Side by side syringe holder"
   - url: /assets/img/remote controller box print pic.jpg
-    image_path: assets/img/remote controller box print pic.jpg
-    alt: "placeholder image 3"
+    image_path: /assets/img/remote controller box print pic.jpg
+    alt: "Remote controller box"
 ---
+
   
 
 # Description of the prototype
