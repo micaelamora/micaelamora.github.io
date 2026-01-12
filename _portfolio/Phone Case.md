@@ -1,15 +1,25 @@
 ---
 title: "Phone Case"
-category: fabrication
-excerpt: "Versatile Design of phone case"
+layout: single
 classes: wide
+author_profile: false
+sidebar:
+  nav: false
+
+category: fabrication
+excerpt: "Versatile design of phone case"
+
 header:
   image: /assets/img/phone case for iphone 11.png
   teaser: /assets/img/phone case for iphone 11.png
-  overlay_filter: 0
+
 gallery:
-  - image_path: assets/img/phone case with phone in it.jpg
-  - image_path: assets/img/phone case from the back.jpg
+  - url: /assets/img/phone case with phone in it.jpg
+    image_path: /assets/img/phone case with phone in it.jpg
+    alt: "Phone cASE With phone in it"
+  - url: /assets/img/phone case from the back.jpg
+    image_path: /assets/img/phone case from the back.jpg
+    alt: "Phone Case From the back"
 ---
 
 # Features
