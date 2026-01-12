@@ -102,7 +102,7 @@ A notable advanced feature is the wireless remote start/pause functionality usin
 
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <a href="/assets/img/Arduino Code.pdf" target="_blank"
+  <a href="/syringe-pump-code/arduino_code_for_syringe.ino"
      style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
      View Arduino Code
   </a>
