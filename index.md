@@ -14,15 +14,15 @@ feature_row:
   - image_path: /assets/img/syringe pump.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
-    excerpt: "Built to feed newborn with adjustable syringes."
+    excerpt: "Motor-driven pumps capable of delivering a wide range of flow rates."
   - title: "Phone Case"
     excerpt: "A versatile prototype."
     image_path: /assets/img/phone case.png
     alt: "placeholder image 2"
   - image_path: /assets/img/headset.png
-    alt: "Head Post for neurosurgery"
-    title: "Head Post for Neurosurgery on non-human primates"
-    excerpt: "Built to study neural activty on mice and monkeys"
+    alt: "Head Post for study of neural activities"
+    title: "Head-Post for study of neural activities"
+    excerpt: "Packaging for neural interfaces to be chronically implanted and housed for long-term recordings."
 ---
 
 {% include feature_row %}
