@@ -48,5 +48,12 @@ Micaela can operate a number of different semiconductor manufacturing and charac
   
 <a href="/assets/img/Poster Final Project MAD.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
 
+## Awards
+* VINSE Image Competition
+
+<a href="https://www.vanderbilt.edu/vinse/2025/10/29/congratulations-to-the-winners-of-the-2026-vinse-image-competition/" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Award</a>
+
+  
+
 
 
