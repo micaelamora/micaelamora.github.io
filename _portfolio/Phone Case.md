@@ -10,15 +10,15 @@ category: fabrication
 excerpt: "Versatile design of phone case"
 
 header:
-  image: /assets/img/phone case for iphone 11.png
-  teaser: /assets/img/phone case for iphone 11.png
+  image: /assets/img/horizontal phone case CAD.png
+  teaser: /assets/img/horizontal phone case CAD.png
 
 gallery:
-  - url: /assets/img/phone case with phone in it.jpg
-    image_path: /assets/img/phone case with phone in it.jpg
+  - url: /assets/img/phone case for iphone 11.png
+    image_path: /assets/img/phone case for iphone 11.png
     alt: "Phone case with phone"
-  - url: /assets/img/phone case from the back.jpg
-    image_path: /assets/img/phone case from the back.jpg
+  - url: /assets/img/cad model of phone case w phone.png
+    image_path: /assets/img/cad model of phone case w phone.png
     alt: "Phone case from the back"
 ---
 
