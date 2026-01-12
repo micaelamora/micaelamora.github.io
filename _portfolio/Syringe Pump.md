@@ -101,6 +101,7 @@ A notable advanced feature is the wireless remote start/pause functionality usin
 | Power Supply Quad Output (5V, 12V, 24V, 12V, 4 amp)  | 1             |
 
 <h2>Table with 3D printed parts</h2>
+
 | Part                                                 | Quantity      |
 |------------------------------------------------------|---------------|
 | Carriage                                             | 1             |
@@ -126,6 +127,7 @@ A notable advanced feature is the wireless remote start/pause functionality usin
      style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
      View Wiring Diagram
   </a>
+</div>
 
   <a href="/assets/img/Dimensional Drawings.pdf
 " target="_blank"
