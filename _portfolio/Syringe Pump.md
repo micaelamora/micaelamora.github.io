@@ -1,18 +1,12 @@
 ---
 title: "Syringe Pump"
-layout: single
-classes: wide
-author_profile: false
-sidebar:
-  nav: false
----
-
-excerpt: "Syringe Pump with interchangeable 5mL, 10mL, and 20mL syringes!"
+category: fabrication
+excerpt: "Syringe Pump with interchangeable 5mL, 10mL, and 20mL syringes"
 header:
   image: /assets/img/linear rod actuator final assembly.png
-  teaser: /assets/img/linear rod actuator final assembly.png
+  teaser:  /assets/img/linear rod actuator final assembly.png
 gallery:
-  - url: /assets/img/syringe pump finished assembly.png
+   - url: /assets/img/syringe pump finished assembly.png
     image_path: assets/img/syringe pump finished assembly.png
     alt: "placeholder image 1"
   - url: /assets/img/side by side syringe hold.jpg
@@ -22,6 +16,9 @@ gallery:
     image_path: assets/img/remote controller box print pic.jpg
     alt: "placeholder image 3"
 ---
+<!-- Wrapper for page-specific styling -->
+<div class="headpost-page">
+  
 
 # Description of the prototype
 This prototype is a low-cost, motor-driven syringe pump designed to precisely dispense fluids at controlled flow rates using a stepper motor and lead screw mechanism. The system converts rotational motion into linear motion to advance or retract the syringe plunger while securely supporting both 10 mL and 20 mL syringes without the need for tools. An Arduino-based control system allows users to start, pause, manually jog, and adjust flow rates through onboard buttons, a potentiometer, and an LCD interface that provides real-time feedback. Safety and usability are enhanced through a limit switch that automatically stops the pump when the syringe is empty, color-coded LED status indicators, and protected electronics housed in a 3D-printed enclosure. Additionally, the prototype includes wireless remote control functionality using ESP32 microcontrollers, enabling additionally flexible and hands-free operation.
