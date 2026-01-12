@@ -9,8 +9,7 @@ header:
   overlay_filter: 0
 gallery:
   - image_path: assets/img/phone case.png
-  - image_path: assets/img/phone case.png
-  - image_path: assets/img/phone case.png
+  - image_path: assets/img/phone case from the back.jpg
 ---
 
 # Features
