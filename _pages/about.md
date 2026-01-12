@@ -3,7 +3,7 @@
 title: "About Micaela Mora"
 
 ---
-I am an international student from Asuncion, Paraguay higlhly interested in the semiconductor manufacturing industry currently looking for summer opportunities in 2026. 
+I am an international student from Asunción, Paraguay, highly interested in the semiconductor manufacturing industry and currently seeking summer opportunities for 2026. 
 
 ## Education
 
