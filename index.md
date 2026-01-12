@@ -17,7 +17,7 @@ feature_row:
     excerpt: "Motor-driven pumps capable of delivering a wide range of flow rates."
   - title: "Phone Case"
     excerpt: "A versatile prototype."
-    image_path: /assets/img/phone case.png
+    image_path: /assets/img/horizontal phone case CAD.png
     alt: "placeholder image 2"
   - image_path: /assets/img/headset.png
     alt: "Head Post"
