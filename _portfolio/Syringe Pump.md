@@ -3,6 +3,7 @@ title: "Syringe Pump"
 category: fabrication
 layout: single
 classes: wide
+author_profile: false
 excerpt: "Syringe Pump with interchangeable 5mL, 10mL, and 20mL syringes!"
 header:
   image: /assets/img/linear rod actuator final assembly.png
