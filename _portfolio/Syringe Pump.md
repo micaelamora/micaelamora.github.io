@@ -16,11 +16,20 @@ gallery:
     image_path: assets/img/remote controller box print pic.jpg
     alt: "placeholder image 3"
 ---
-# Feature 
+# Description of the prototype
 
-* **There are 5 buttons and a knob accessible on the syringe pump.** Starting from the left, the first button is the fast forward or mechanical forward button. When pushed and held down, the syringe moves at a rate of 25.65 mL per minute for the 20 mL syringe, and 15.85 mL for the 10 mL syringe. Similarly, the second button, the reverse button, retracts the syringe at the same rates. The third button starts/pauses automatic motion at the default flow rate. The fourth button adjusts the rate for the 10 mL syringe. The fifth button switches flow control to the potentiometer knob.
-Interchangeable between 10 mL and 20 mL syringes.
-* **Smooth and accessible design.** The PLA enclosure protects electronics while making buttons easily accessible. Holes for power wires, latches, and microcontroller connections are tight-fitting to prevent intrusion.
+
+# Features of the design 
+
+
+# Operating Instructions 
+
+* **Step 1:** Place 10 mL or 20 mL in corresponding holes. The 10 mL holes are on the front side of the pump, and the 20 mL holes are towards the back side.
+* **Step 2:** Press the black button, third from the left, to start the motion of the pump at 5 mL/min for a 20 mL syringe. To pause, press this button again. Motion will automatically stop when the syringe is empty.
+* **Step 3:** To adjust the motion for a 10 mL syringe, press the red button directly to the right of the black button (the fourth button from the left).
+* **Step 4:** Press and hold the first button to manually move forward. Press and hold the second button to manually move backward.
+* **Step 5:** To set the speed using the knob, press the rightmost red button (5th from the left) and rotate the knob right to increase speed and left to decrease speed.
+* **Step 6:** Due to prototyping limitations, the remote must be powered using a micro USB cable connected to a laptop or similar device. For future iterations, the remote will have a stand-alone power source. To turn on the syringe, flip the switch to the on position. To pause the syringe, flip it to the off position.
 
 {% include gallery caption="Gallery." %}
 
