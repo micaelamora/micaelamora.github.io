@@ -100,12 +100,26 @@ A notable advanced feature is the wireless remote start/pause functionality usin
 | RGB Common Cathode LED                               | 1             |
 | Power Supply Quad Output (5V, 12V, 24V, 12V, 4 amp)  | 1             |
 
+<h2>Table with 3D printed parts</h2>
+| Part                                                 | Quantity      |
+|------------------------------------------------------|---------------|
+| Carriage                                             | 1             |
+| End Support                                          | 1             |
+| Enclosure Body                                       | 1             |
+| Enclosure Lid                                        | 1             |
+| Remote Box                                           | 1             |
+| Remote Box Lid                                       | 1             |
+
+
+
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
   <a href="/syringe-pump-code/arduino_code_for_syringe.ino"
-     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
-     View Arduino Code
+     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;"
+     download>
+     Download Arduino Code
   </a>
+</div>
 
   <a href="/assets/img/Wiring diagram for the Arduino UNO.pdf
 " target="_blank"
