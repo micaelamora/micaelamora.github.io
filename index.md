@@ -21,7 +21,7 @@ feature_row:
     alt: "placeholder image 2"
   - image_path: /assets/img/headset.png
     alt: "Head Post"
-    title: "Head-Post for study of neural activities"
+    title: "Head-Post"
     excerpt: "Packaging for neural interfaces to be chronically implanted and housed for long-term recordings."
 ---
 
