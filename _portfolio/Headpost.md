@@ -32,9 +32,8 @@ gallery:
 </style>
 
 # Description of the prototype 
-The prototype is a miniature neural recording headset designed for small animals, such as mice, to monitor brain activity in real time. This lightweight, compact device allows for chronic implantation or temporary attachment, minimizing stress or interference with normal behavior. The headset integrates microelectrodes, wireless data transmission, and protective housing to record and transmit neural signals while maintaining comfort and mobility for the animal.
-
-The system is intended for neuroscience research, enabling studies of neural dynamics, brain circuitry, and behavior correlations. It can interface with data acquisition systems for real-time monitoring, analysis, and storage. Safety and durability are key considerations, ensuring the headset remains securely in place without affecting natural behavior.
+The prototype is a miniature neural recording headset designed for small animals, such as mice, to be placed on the skulls with a pcb to monitor brain activity in real time. This lightweight, compact device allows for chronic implantation or temporary attachment, minimizing stress or interference with normal behavior. The long-term housing enables continuous neural signal recording and transmission while minimizing impact on the animal’s comfort and natural movement.
+The system is intended for neuroscience research, enabling studies of neural dynamics, brain circuitry, and behavior correlations. Safety and durability are key considerations, ensuring the headset remains securely in place without affecting natural behavior.
 
 
 # Prototype Specifications
