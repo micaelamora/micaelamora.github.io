@@ -27,4 +27,4 @@ gallery:
   frameborder="0">
 </iframe>
 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+{% include gallery caption="Gallery" %}
