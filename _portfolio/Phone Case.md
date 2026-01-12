@@ -1,13 +1,4 @@
 ---
-<style>
-.gallery img {
-    max-width: 300px;  /* thumbnail width */
-    height: auto;      /* keeps aspect ratio */
-    display: block;
-    margin: 10px auto; /* centers images */
-}
-</style>
-
 title: "Phone Case"
 layout: single
 classes: wide
@@ -21,6 +12,7 @@ excerpt: "Versatile design of phone case"
 header:
   image: /assets/img/phone case for iphone 11.png
   teaser: /assets/img/phone case for iphone 11.png
+
 gallery:
   - url: /assets/img/phone case with phone in it.jpg
     image_path: /assets/img/phone case with phone in it.jpg
@@ -29,6 +21,14 @@ gallery:
     image_path: /assets/img/phone case from the back.jpg
     alt: "Phone case from the back"
 ---
+<style>
+.gallery img {
+    max-width: 300px;  /* thumbnail width */
+    height: auto;      /* keeps aspect ratio */
+    display: block;
+    margin: 10px auto; /* centers images */
+}
+</style>
 
 # Description of the prototype
 This phone case is a protective, stylish, and customizable TPU case designed to safeguard smartphones while maintaining functionality and showcasing personal or team colors. Its careful design balances durability, comfort, and aesthetic appeal, featuring precise cutouts, raised lips for screen and camera protection, and a ventilated back pattern that preserves the phone’s original look.
