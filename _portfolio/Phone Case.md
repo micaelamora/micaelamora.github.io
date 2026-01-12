@@ -8,7 +8,7 @@ header:
   teaser: /assets/img/phone case for iphone 11.png
   overlay_filter: 0
 gallery:
-  - image_path: assets/img/phone case.png
+  - image_path: assets/img/phone case with phone in it.jpg
   - image_path: assets/img/phone case from the back.jpg
 ---
 
