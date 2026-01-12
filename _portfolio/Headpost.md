@@ -1,91 +1,54 @@
 ---
 title: "Head Post"
+layout: single
+classes: wide
+author_profile: false
+sidebar:
+  nav: false
+
 category: personal
-excerpt: "Head Post used to study neural activities in mice and monkeys"
+excerpt: "Head Post used to study neural activities in mice"
+
 header:
   image: /assets/img/headset.png
   teaser: /assets/img/headset.png
+
 gallery:
-  - image_path: /assets/img/headset.png
-  - image_path: /assets/img/headset.png
-  - image_path: /assets/img/headset.png
+  - url: /assets/img/headset.png
+    image_path: /assets/img/headset.png
+    alt: "Head Post"
+  - url: /assets/img/headset.png
+    image_path: /assets/img/headset.png
+    alt: "Head Post"
 ---
-<!-- Wrapper for page-specific styling -->
-<div class="headpost-page">
 
-  <!-- Header Image -->
-  <img src="{{ page.header.image }}" alt="Head Post Header" class="headpost-header" />
-
-  <!-- Page Title -->
-  <h1>Head Post</h1>
-
-  <!-- Section Title -->
-  <h2>CAD Model</h2>
-
-  <!-- CAD Model iframe -->
-  <iframe
-    src="https://a360.co/45LegEo"
-    width="800"
-    height="600"
-    allowfullscreen="true"
-    webkitallowfullscreen="true"
-    mozallowfullscreen="true"
-    frameborder="0">
-  </iframe>
-
-  <!-- Gallery Section -->
-  <div class="gallery-grid">
-    {% for item in page.gallery %}
-      <a href="{{ item.image_path }}" class="glightbox" data-gallery="headpost">
-        <img src="{{ item.image_path }}" alt="Gallery image" class="gallery-thumb" />
-      </a>
-    {% endfor %}
-  </div>
-
-</div>
-
-<!-- GLightbox CSS & JS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
-<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Initialize GLightbox once the page is loaded
-  const lightbox = GLightbox({
-    selector: '.glightbox',
-    closeOnOutsideClick: true
-  });
-});
-</script>
-
-<!-- Page-specific Styling -->
 <style>
-/* Only applies to Head Post page */
-.headpost-page .headpost-header {
-  width: 300px; /* Smaller header image */
-  height: auto;
-  display: block;
-  margin: 20px auto; /* Center it */
-}
-
-/* Gallery Grid */
-.headpost-page .gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 15px;
-  margin-top: 20px;
-}
-
-.headpost-page .gallery-thumb {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: transform 0.2s ease;
-}
-
-.headpost-page .gallery-thumb:hover {
-  transform: scale(1.05);
+.gallery img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
 }
 </style>
+
+# Description of the prototype 
+The prototype is a miniature neural recording headset designed for small animals, such as mice, to monitor brain activity in real time. This lightweight, compact device allows for chronic implantation or temporary attachment, minimizing stress or interference with normal behavior. The headset integrates microelectrodes, wireless data transmission, and protective housing to record and transmit neural signals while maintaining comfort and mobility for the animal.
+
+The system is intended for neuroscience research, enabling studies of neural dynamics, brain circuitry, and behavior correlations. It can interface with data acquisition systems for real-time monitoring, analysis, and storage. Safety and durability are key considerations, ensuring the headset remains securely in place without affecting natural behavior.
+
+
+# Prototype Specifications
+* Weight: <3 grams
+* Dimensions: 30 mm × 10 mm × 1.5 mm (compact to fit on the skull of mice)
+* Material: Biocompatible resin 
+
+
+  
+{% include gallery caption="Gallery" %}
+
+# CAD Model 
+<iframe src="https://a360.co/45LegEo" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+
+
+
+
