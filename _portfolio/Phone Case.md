@@ -1,4 +1,11 @@
 ---
+/* Resize gallery thumbnails */
+.gallery img {
+    max-width: 300px;  /* or whatever width you want */
+    height: auto;      /* maintains aspect ratio */
+    display: block;
+    margin: 10px auto; /* optional: center the images */
+}
 title: "Phone Case"
 layout: single
 classes: wide
