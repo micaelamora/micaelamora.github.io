@@ -46,8 +46,10 @@ This phone case is a protective, stylish, and customizable TPU case designed to 
 
 # Specifications 
 * Shock and drop protection while maintaining a slim profile.
-* Easy access to all buttons, ports, and switches. * Ventilated back design preserves phone aesthetics.
-* Customizable for personal/team colors. * Flexible and durable TPU material for long-lasting use.
+* Easy access to all buttons, ports, and switches.
+* Ventilated back design preserves phone aesthetics.
+* Customizable for personal/team colors.
+* Flexible and durable TPU material for long-lasting use.
 * Screen and camera safeguarded with raised edges.
 * Compatible with standard smartphone functions (charging, speakers)
   
