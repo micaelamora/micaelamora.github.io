@@ -1,4 +1,13 @@
 ---
+<style>
+.gallery img {
+    max-width: 300px;  /* thumbnail width */
+    height: auto;      /* keeps aspect ratio */
+    display: block;
+    margin: 10px auto; /* centers images */
+}
+</style>
+
 title: "Phone Case"
 layout: single
 classes: wide
@@ -12,22 +21,13 @@ excerpt: "Versatile design of phone case"
 header:
   image: /assets/img/phone case for iphone 11.png
   teaser: /assets/img/phone case for iphone 11.png
-/* Resize gallery thumbnails */
-.gallery img {
-    max-width: 300px;  /* or whatever width you want */
-    height: auto;      /* maintains aspect ratio */
-    display: block;
-    margin: 10px auto; /* optional: center the images */
-}
 gallery:
   - url: /assets/img/phone case with phone in it.jpg
     image_path: /assets/img/phone case with phone in it.jpg
     alt: "Phone case with phone"
-    thumbnail: /assets/img/thumbs/phone case with phone in it.jpg
   - url: /assets/img/phone case from the back.jpg
     image_path: /assets/img/phone case from the back.jpg
     alt: "Phone case from the back"
-    thumbnail: /assets/img/thumbs/phone case from the back.jpg
 ---
 
 # Description of the prototype
