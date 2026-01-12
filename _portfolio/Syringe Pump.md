@@ -88,7 +88,7 @@ A notable advanced feature is the wireless remote start/pause functionality usin
 | Panel Mount Momentary Push Buttons (On/Off)          | 1             |
 | Limit Switch (On/Off)                                | 1             |
 | RGB Common Cathode LED                               | 1             |
-| Power Supply Quad Output (5V, 12V, 24V, 12V, 4 amp   | 1             |
+| Power Supply Quad Output (5V, 12V, 24V, 12V, 4 amp)  | 1             |
 
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
