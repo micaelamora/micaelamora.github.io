@@ -28,16 +28,16 @@ gallery:
   
 
 # Description of the prototype
-This prototype is a low-cost, motor-driven syringe pump designed to precisely dispense fluids at controlled flow rates using a stepper motor and lead screw mechanism. The system converts rotational motion into linear motion to advance or retract the syringe plunger while securely supporting both 10 mL and 20 mL syringes without the need for tools. An Arduino-based control system allows users to start, pause, manually jog, and adjust flow rates through onboard buttons, a potentiometer, and an LCD interface that provides real-time feedback. Safety and usability are enhanced through a limit switch that automatically stops the pump when the syringe is empty, color-coded LED status indicators, and protected electronics housed in a 3D-printed enclosure. Additionally, the prototype includes wireless remote control functionality using ESP32 microcontrollers, enabling additionally flexible and hands-free operation.
+This low-cost, motor-driven syringe pump precisely dispenses fluids using a stepper motor and lead screw mechanism. It supports 10 mL and 20 mL syringes without tools and converts rotational motion into linear plunger movement. An Arduino-based system allows users to start, pause, manually jog, and adjust flow rates via buttons, a potentiometer, and an LCD for real-time feedback. Safety features include a limit switch, color-coded LEDs, and a 3D-printed protective enclosure. Wireless control via ESP32 microcontrollers enables hands-free operation.
 
 # Features of the design 
-* Low-Cost, DIY Alternative to Commercial Syringe Pumps
+* **Low-Cost, DIY Alternative to Commercial Syringe Pumps.**
 This prototype demonstrates that a traditionally expensive medical and laboratory device can be recreated using affordable components such as 3D-printed parts, an Arduino, and stepper motor control. By meeting the same functional requirements as commercial pumps that cost hundreds to thousands of dollars, the design shows strong potential for cost-effective applications in educational, research, or low-resource settings.
 
-* Dual Syringe Compatibility Without Tools
+* **Dual Syringe Compatibility Without Tools.**
 The pump is designed to accommodate both 10 mL and 20 mL syringes using dedicated mounting slots, allowing users to switch syringe sizes quickly without tools or reassembly. This improves usability and reduces setup time while maintaining proper support and preventing sagging during operation.
 
-* Precise and Flexible Flow Rate Control
+* **Precise and Flexible Flow Rate Control.**
 The use of a stepper motor with microstepping and a lead screw enables highly precise linear motion, resulting in accurate and repeatable flow rates. The system offers multiple control modes:
   * Preset flow rates for 10 mL and 20 mL syringes
   * Manual fast forward and reverse control
