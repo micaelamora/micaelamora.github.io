@@ -16,10 +16,12 @@ header:
 gallery:
   - url: /assets/img/phone case with phone in it.jpg
     image_path: /assets/img/phone case with phone in it.jpg
-    alt: "Phone cASE With phone in it"
+    alt: "Phone case with phone"
+    thumbnail: /assets/img/thumbs/phone case with phone in it.jpg
   - url: /assets/img/phone case from the back.jpg
     image_path: /assets/img/phone case from the back.jpg
-    alt: "Phone Case From the back"
+    alt: "Phone case from the back"
+    thumbnail: /assets/img/thumbs/phone case from the back.jpg
 ---
 
 # Description of the prototype
