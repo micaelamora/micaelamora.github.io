@@ -16,8 +16,6 @@ gallery:
     image_path: assets/img/remote controller box print pic.jpg
     alt: "placeholder image 3"
 ---
-<!-- Wrapper for page-specific styling -->
-<div class="headpost-page">
   
 
 # Description of the prototype
