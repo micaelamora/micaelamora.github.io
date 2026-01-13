@@ -111,24 +111,24 @@ A notable advanced feature is the wireless remote start/pause functionality usin
 | Remote Box                                           | 1             |
 | Remote Box Lid                                       | 1             |
 
-</div>
-<a href="https://micaelamora.github.io/syringe-pump-code/"
-   target="_blank"
-   style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
-   View Arduino Code
-</a>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/micaelamora/syringe-pump-code/blob/main/arduino_code_for_syringe.ino"
+     target="_blank"
+     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+     View Arduino Code
+  </a>
 
-<a href="/assets/img/Wiring diagram for the Arduino UNO.pdf"
-   target="_blank"
-   style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
-   View Wiring Diagram
-</a>
+  <a href="/assets/img/Wiring diagram for the Arduino UNO.pdf"
+     target="_blank"
+     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+     View Wiring Diagram
+  </a>
 
-<a href="/assets/img/Dimensional Drawings.pdf"
-   target="_blank"
-   style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
-   View Dimensioned Drawings
-</a>
+  <a href="/assets/img/Dimensional Drawings.pdf"
+     target="_blank"
+     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+     View Dimensioned Drawings
+  </a>
 </div>
 
 
