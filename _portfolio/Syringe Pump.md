@@ -118,18 +118,19 @@ A notable advanced feature is the wireless remote start/pause functionality usin
    View Arduino Code
 </a>
 
-  <a href="/assets/img/Wiring diagram for the Arduino UNO.pdf"
-     target="_blank"
-     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
-     View Wiring Diagram
-  </a>
+<a href="/assets/img/Wiring diagram for the Arduino UNO.pdf"
+   target="_blank"
+   style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+   View Wiring Diagram
+</a>
 
-  <a href="/assets/img/Dimensional Drawings.pdf"
-     target="_blank"
-     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
-     View Dimensioned Drawings
-  </a>
+<a href="/assets/img/Dimensional Drawings.pdf"
+   target="_blank"
+   style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+   View Dimensioned Drawings
+</a>
 </div>
+
 
 
 
