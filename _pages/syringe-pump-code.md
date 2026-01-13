@@ -1,6 +1,14 @@
 ---
+
+## ✅ The ONLY fix you need (do not change Arduino code)
+
+### Your file should look like this structurally:
+
+```md
+---
 title: Syringe Pump – Arduino Code
-permalink: /syringe-pump-code/
+permalink: /syringe-pump-arduino-code/
+layout: page
 ---
 
 ## Arduino Code
@@ -28,7 +36,6 @@ double speed;
 double speed_s;
 volatile bool sizeChangeFlag = false;
 volatile bool estop = false;
-
 
 // Libary
 #include <AccelStepper.h>
