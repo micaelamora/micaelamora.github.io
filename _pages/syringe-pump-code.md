@@ -1,11 +1,4 @@
 ---
-
-## ✅ The ONLY fix you need (do not change Arduino code)
-
-### Your file should look like this structurally:
-
-```md
----
 title: Syringe Pump – Arduino Code
 permalink: /syringe-pump-arduino-code/
 layout: page
@@ -618,6 +611,6 @@ void loop() {
   // wait for 3seconds to run the logic again
   //delay(300);
 }
- 
+```
 
 }
