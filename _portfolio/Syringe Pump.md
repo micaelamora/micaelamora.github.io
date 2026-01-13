@@ -111,7 +111,7 @@ A notable advanced feature is the wireless remote start/pause functionality usin
 | Remote Box                                           | 1             |
 | Remote Box Lid                                       | 1             |
 
-
+</div>
 <a href="https://micaelamora.github.io/syringe-pump-code/"
    target="_blank"
    style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
