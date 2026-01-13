@@ -112,12 +112,11 @@ A notable advanced feature is the wireless remote start/pause functionality usin
 | Remote Box Lid                                       | 1             |
 
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <a href="https://micaelamora.github.md/syringe-pump-code/arduino_code_for_syringe.md"
-     target="_blank"
-     style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
-     View Arduino Code
-  </a>
+<a href="https://micaelamora.github.io/syringe-pump-code/"
+   target="_blank"
+   style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">
+   View Arduino Code
+</a>
 
   <a href="/assets/img/Wiring diagram for the Arduino UNO.pdf"
      target="_blank"
