@@ -44,7 +44,7 @@ The pliers are made out of white PLA filament for the handle and the tip, and re
 {% include gallery caption="Gallery" %}
 
 # CAD Model 
-<iframe src="https://a360.co/45LegEo" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+<iframe src="https://a360.co/4kj4Xla" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
 
 
 
