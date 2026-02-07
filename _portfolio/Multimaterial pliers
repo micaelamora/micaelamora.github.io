@@ -1,0 +1,51 @@
+---
+title: "Multimaterial Pliers"
+layout: single
+classes: wide
+author_profile: false
+sidebar:
+  nav: false
+
+category: personal
+excerpt: "Multimaterial pliers made out of TPU and PLA"
+
+header:
+  image: /assets/img/headset.png
+  teaser: /assets/img/headset.png
+
+gallery:
+  - url: /assets/img/headset.png
+    image_path: /assets/img/headset.png
+    alt: "Head Post"
+  - url: /assets/img/head set top view.png
+    image_path: /assets/img/head set top view.png
+    alt: "Head Post"
+---
+
+<style>
+.gallery img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+</style>
+
+# Description of the prototype 
+The pliers are made out of white PLA filament for the handle and the tip, and red TPU for the flexible center. They are 15 cm long and work perfectly fine for picking up small pieces.
+
+# Prototype Specifications
+* Weight: <100 grams
+* Dimensions: 150 mm × 50 mm × 5 mm 
+* Material: TPU and PLA 
+
+
+  
+{% include gallery caption="Gallery" %}
+
+# CAD Model 
+<iframe src="https://a360.co/45LegEo" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+
+
+
+
