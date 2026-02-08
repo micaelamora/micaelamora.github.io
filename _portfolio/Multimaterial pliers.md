@@ -23,6 +23,9 @@ gallery:
   - url: /assets/img/for_gallery_3.jpeg
     image_path: /assets/img/for_gallery_3.jpeg
     alt: "Pliers 3"
+  - url: /assets/img/for_gallery_3.jpeg
+    image_path: /assets/img/for_gallery_3.jpeg
+    alt: "Pliers 3"
 ---
 
 <style>
@@ -34,15 +37,16 @@ gallery:
 }
 </style>
 
+
 # Description of the prototype 
-The pliers are made out of white PLA filament for the handle and the tip, and red TPU for the flexible center. They are 15 cm long and work perfectly fine for picking up small pieces.
+The pliers are made out of white PLA filament for the handle and the tip, and red TPU for the flexible center. They are 15 cm long and work perfectly for picking up small objects as the size of resistors. The pliers include an assembly of 3 parts ( 2 rigid component  and 1 elastic spring element). The printer used was the voron 
 
-# Prototype Specifications
-* Weight: <100 grams
-* Dimensions: 150 mm × 50 mm × 5 mm 
-* Material: TPU and PLA 
+# Design Features 
+* **Material:** Flexible TPU for the flexible center and PLA for durable the handle and tip.
+* 
 
-
+# Specifications 
+* The 
   
 {% include gallery caption="Gallery" %}
 
