@@ -7,7 +7,7 @@ sidebar:
   nav: false
 
 category: fabrication
-excerpt: "Multimaterial pliers made out of TPU and PLA"
+excerpt: "Pliers made out of TPU and PLA"
 
 header:
   image: /assets/img/render 2 white bacground.png
