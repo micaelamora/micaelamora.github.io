@@ -112,6 +112,15 @@ Print-in-place refers to models that print with moving or interlocking parts alr
 * **Compliant springs & living hinges:** flexible geometry printed in TPU (or thin PLA) used as a return or damping element — many community spring designs and tutorials exist
 * **Mechanical linkages & snap-fit assemblies:** toy mechanisms, articulated figurines (print-in-place joints), and snap connectors that remove assembly steps — collections and tutorials how large sets of mechanisms that hobbyists and engineers use.
 
+**Combination of materials to use for print-in-place:**
+* 1) PLA (rigid) + TPU (flexible): the most common hybrid for small tools and compliant springs. PLA gives good surface detail and stiff jaws; TPU gives rubbery flex for springs or living-element functions. This combo is widely used in community designs  and is the combination suggested for your course project (95A TPU recommended for balance of stiffness/durability). 
+
+* 2) PETG + TPU — PETG is tougher and more heat resistant than PLA and often bonds better to TPU in practice; useful for parts that must tolerate higher temperatures or slightly rougher handling. Community guides often suggest PETG when strength + slight flexibility.
+
+* 3) Nylon + TPU or flexible nylons — used in industrial or advanced hobby prints for high-wear or high-cycle components; more challenging to print but durable. (Research literature also explores engineered blends/pellet co-extrusion for new multifunctional parts.)
+
+* 4) Single-material print-in-place (thin PLA flexures) — for simple living hinges or snap joints designers sometimes make the entire mechanism from one rigid filament (thin section acts as a compliant hinge). This avoids adhesion issues but suffers fatigue and “crunchy” extrusion irregularities. Your project brief notes this tradeoff and permits the 3-part assembly to avoid single-material limitations.
+
 <h2>Sources:</h2>
 * thingiverse.com
 * Maker World
