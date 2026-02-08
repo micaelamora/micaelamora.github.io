@@ -10,18 +10,18 @@ category: fabrication
 excerpt: "Multimaterial pliers made out of TPU and PLA"
 
 header:
-  image: /assets/img/big pliers main img.jpeg
-  teaser: /assets/img/big pliers main img.jpeg
+  image: /assets/img/big_pliers_main_img.jpeg
+  teaser: /assets/img/big_pliers_main_img.jpeg
 
 gallery:
-  - url: /assets/img/for gallery 1.jpeg
-    image_path: /assets/img/for gallery 1.jpeg
+  - url: /assets/img/for_gallery_1.jpeg
+    image_path: /assets/img/for_gallery_1.jpeg
     alt: "Pliers 1"
-  - url: /assets/img/for gallery 2.jpeg
-    image_path: /assets/img/for gallery 2.jpeg
+  - url: /assets/img/for_gallery_2.jpeg
+    image_path: /assets/img/for_gallery_2.jpeg
     alt: "pliers 2"
- - url: /assets/img/for gallery 3.jpeg
-    image_path: /assets/img/for gallery 3.jpeg
+  - url: /assets/img/for_gallery_3.jpeg
+    image_path: /assets/img/for_gallery_3.jpeg
     alt: "Pliers 3"
 ---
 
