@@ -50,7 +50,7 @@ These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid P
   * Spring center: Red TPU (95A recommended for balance of flexibility + durability)
 * **Geometry:**
   * Long, narrow jaws with slightly textred tip faces for  grip on small resistors
-  * Spring center geometry is a thin, U-shaped elastomeric element that sits inside mating cavities in the handle halbes and is retained by snap ribs, no screws or glue
+  * Spring center geometry is a thin, square-shaped elastomeric element that sits inside mating cavities in the handle halves and is retained by tabs.
 * **Assembly:**
   * Hand-press assembly only. Designed clearance lets the spring center be pushed into grooves and locked by small retention tabs. Step by step description below.
   
