@@ -82,14 +82,14 @@ These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid P
 * Top Infill Patter: Monotonic
 
 
-| Part                                           | Material     |
-|------------------------------------------------|--------------|
-| Center                                         | TPU          |
-| Left Handle                                    | PLA          |
-| Right Handle Body                              | PLA          |
-| Left Tip                                       | PLA          |
-| Right Tip                                      | PLA          |
-
+| Part                        |   Left Handle  |  Right Handle |  Spring Center  |  Right  Tip  |  Left Tip   |
+|-----------------------------|----------------|---------------|-----------------|--------------|-------------|
+| Material                    |      PLA       |      PLA      |       TPU       |     PLA      |    PLA      |
+| Fill Density                |        15%     |     15%       |        31%      |      15%     |     15%     |
+| Supports                    |  Everywhere    |   Everywhere  |    Everywhere   |  Everywhere  | Everywhere  |
+| Infill Pattern              | Rectilinear    |  Rectilinear  |      Grid       |  Rectilinear | Rectilinear | 
+| Minimum Shell Thickness     |     0.8 mm     |   0.8 mm      |       0 mm      |      0.8 mm  |     0.8 mm  |
+| Top Infill Pattern          |   Monotonic    |   Monotonic   |    Monotonic    |  Monotonic   |  Monotonic  |
   
 {% include gallery caption="Gallery" %}
 
