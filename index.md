@@ -23,6 +23,10 @@ feature_row:
     alt: "Head Post"
     title: "Head-Post"
     excerpt: "Packaging for neural interfaces to be chronically implanted and housed for long-term recordings."
+  - image_path: /assets/img/render 2 white bacground.png
+    alt: "Multimaterial Pliers"
+    title: "Multimaterial Pliers"
+    excerpt: "Pliers made out of TPU and PLA designed for picking up small objects"
 ---
 
 {% include feature_row %}
