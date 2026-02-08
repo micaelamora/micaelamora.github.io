@@ -54,5 +54,16 @@ The pliers are made out of white PLA filament for the handle and the tip, and re
 <iframe src="https://a360.co/4kj4Xla" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
 
 
+<h2> Table with 3D printed parts </h2>
+
+| Part                                           | Material     |
+|------------------------------------------------|--------------|
+| Center                                         | TPU          |
+| Left Handle                                    | PLA          |
+| Right Handle Body                              | PLA          |
+| Left Tip                                       | PLA          |
+| Right Tip                                      | PLA          |
+
+
 
 
