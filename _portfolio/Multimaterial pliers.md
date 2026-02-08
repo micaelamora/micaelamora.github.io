@@ -52,7 +52,7 @@ These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid P
   * Long, narrow jaws with slightly textred tip faces for  grip on small resistors
   * Spring center geometry is a thin, U-shaped elastomeric element that sits inside mating cavities in the handle halbes and is retained by snap ribs, no screws or glue
 * **Assembly:**
-  * Hand-press assembly only. Desinged clearance lets the spring center be pushed into grooves and locked by small retention tabs. Step by step description below.
+  * Hand-press assembly only. Designed clearance lets the spring center be pushed into grooves and locked by small retention tabs. Step by step description below.
   
 
 # Specifications 
