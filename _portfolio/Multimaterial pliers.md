@@ -10,16 +10,19 @@ category: fabrication
 excerpt: "Multimaterial pliers made out of TPU and PLA"
 
 header:
-  image: /assets/img/headset.png
-  teaser: /assets/img/headset.png
+  image: /assets/img/big pliers main img.jpeg
+  teaser: /assets/img/big pliers main img.jpeg
 
 gallery:
-  - url: /assets/img/headset.png
-    image_path: /assets/img/headset.png
-    alt: "Head Post"
-  - url: /assets/img/head set top view.png
-    image_path: /assets/img/head set top view.png
-    alt: "Head Post"
+  - url: /assets/img/for gallery 1.jpeg
+    image_path: /assets/img/for gallery 1.jpeg
+    alt: "Pliers 1"
+  - url: /assets/img/for gallery 2.jpeg
+    image_path: /assets/img/for gallery 2.jpeg
+    alt: "pliers 2"
+ - url: /assets/img/for gallery 3.jpeg
+    image_path: /assets/img/for gallery 3.jpeg
+    alt: "Pliers 3"
 ---
 
 <style>
