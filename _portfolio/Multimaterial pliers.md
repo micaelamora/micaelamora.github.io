@@ -81,15 +81,6 @@ These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid P
 * Minimum Shell thickness: 0 mm
 * Top Infill Patter: Monotonic
 
-  
-  
-{% include gallery caption="Gallery" %}
-
-# CAD Model 
-<iframe src="https://a360.co/4kj4Xla" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
-
-
-<h2> Table with 3D printed parts </h2>
 
 | Part                                           | Material     |
 |------------------------------------------------|--------------|
@@ -99,17 +90,33 @@ These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid P
 | Left Tip                                       | PLA          |
 | Right Tip                                      | PLA          |
 
-**Assembly Steps:**
+**Assembly Steps:**  
+  
+{% include gallery caption="Gallery" %}
+
+# CAD Model 
+<iframe src="https://a360.co/4kj4Xla" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+
+
+<h2> Assembly Steps: </h2>
 * 1) Print the two PLA halves and the TPU spring.
 * 2) Orient the rigid halves so mating cavities are aligned.
 * 3) Press the TPU spring into one handle cavity until retention ribs engage.
 * 4) Press the second handle over the exposed portion of the spring and snap the two halves together. Assembly should be manual.
 * 5) Test action: pliers should open automatically; squeeze to close and pick up a resistor by the jaw tips.
- 
-**Applications of print-in-place:**
-*
-*
 
-Sources: 
+<h2>Print-in-place: what it means & applications:</h2>
+
+Print-in-place refers to models that print with moving or interlocking parts already assembled — no hardware or (sometimes) even post-print assembly required. Designers create negative clearances and compliant features so the parts separate or flex after printing.
+
+* **Hinges & enclosures:** parametric print-in-place hinges and small hinged boxes that print fully assembled. Great for clips, cases, and foldable parts.
+* **Compliant springs & living hinges:** flexible geometry printed in TPU (or thin PLA) used as a return or damping element — many community spring designs and tutorials exist
+* **Mechanical linkages & snap-fit assemblies:** toy mechanisms, articulated figurines (print-in-place joints), and snap connectors that remove assembly steps — collections and tutorials how large sets of mechanisms that hobbyists and engineers use.
+
+<h2>Sources:</h2>
+* thingiverse.com
+* Maker World
+* ScienceDirect
+
 
 
