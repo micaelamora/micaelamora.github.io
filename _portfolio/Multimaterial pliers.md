@@ -119,7 +119,7 @@ Print-in-place refers to models that print with moving or interlocking parts alr
 
 * 3) Nylon + TPU or flexible nylons — used in industrial or advanced hobby prints for high-wear or high-cycle components; more challenging to print but durable. (Research literature also explores engineered blends/pellet co-extrusion for new multifunctional parts.)
 
-* 4) Single-material print-in-place (thin PLA flexures) — for simple living hinges or snap joints designers sometimes make the entire mechanism from one rigid filament (thin section acts as a compliant hinge). This avoids adhesion issues but suffers fatigue and “crunchy” extrusion irregularities. Your project brief notes this tradeoff and permits the 3-part assembly to avoid single-material limitations.
+* 4) Single-material print-in-place (thin PLA flexures) — for simple living hinges or snap joints designers sometimes make the entire mechanism from one rigid filament (thin section acts as a compliant hinge). This avoids adhesion issues but suffers fatigue and “crunchy” extrusion irregularities. 
 
 <h2>Sources:</h2>
 * thingiverse.com
