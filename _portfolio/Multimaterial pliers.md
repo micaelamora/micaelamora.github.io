@@ -23,8 +23,8 @@ gallery:
   - url: /assets/img/for_gallery_3.jpeg
     image_path: /assets/img/for_gallery_3.jpeg
     alt: "Pliers 3"
-  - url: /assets/img/WhatsApp Video 2026-02-08 at 12.00.31.gif
-    image_path: /assets/img/WhatsApp Video 2026-02-08 at 12.00.31.gif
+  - url: /assets/img/Adobe Express - video2.gif.gif
+    image_path: /assets/img/Adobe Express - video2.gif.gif
     alt: "Pliers picking up resistors"
   - url: /assets/img/Adobe Express - video1.gif.gif
     image_path: /assets/img/Adobe Express - video1.gif.gif
