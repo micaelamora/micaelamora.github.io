@@ -42,14 +42,46 @@ gallery:
 
 
 # Description of the prototype 
-The pliers are made out of white PLA filament for the handle and the tip, and red TPU for the flexible center. They are 15 cm long and work perfectly for picking up small objects as the size of resistors. The pliers include an assembly of 3 parts ( 2 rigid component  and 1 elastic spring element). The printer used was the voron 
+These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid PLA halves (white) form the handles and jaws, and a single red TPU spring element gives the pliers a reliable return/opening action. The assembly is a 3-part press-fit (2 rigid pieces + 1 elastic spring) printed in a Vorno 3D printer. The approach keeps the crisp, rigid gripping surfaces where you need them and uses a compliant elastomer only for the spring function.
 
 # Design Features 
-* **Material:** Flexible TPU for the flexible center and PLA for durable the handle and tip.
-* 
+* **Materials:**
+  * Handle & tips: White PLA (rigid, good surface finish for gripping)
+  * Spring center: Red TPU (95A recommended for balance of flexibility + durability)
+* **Geometry:**
+  * Long, narrow jaws with slightly textred tip faces for  grip on small resistors
+  * Spring center geometry is a thin, U-shaped elastomeric element that sits inside mating cavities in the handle halbes and is retained by snap ribs, no screws or glue
+* **Assembly:**
+  * Hand-press assembly only. Desinged clearance lets the spring center be pushed into grooves and locked by small retention tabs. Step by step description below.
+  
 
 # Specifications 
-* The 
+* Overall length: 150 mm
+* Tip Length: 55 mm
+* Maximum jaw opening: 10 mm
+* Parts: 4 x PLA rigid bodies +  1 x TPU spring
+* Printer used: Voron 3D printerr
+* Required post-processing: None (press-fit assembly only)
+ 
+
+# Printing Setting 
+* **Rigid PLA handles**
+* Material: White PLA
+* Fill density: 15%
+* Supports: Everywhere
+* Infill Pattern: Rectilinear
+* Minimum shell thickness: 0.8 mm
+* Top Infill Pattern: Monotonic
+
+* **Spring Center**
+* Material: Red TPU 95
+* Fill Density: 31%
+* Supports: Everywhere
+* Infill Pattern: Grid
+* Minimum Shell thickness: 0 mm
+* Top Infill Patter: Monotonic
+
+  
   
 {% include gallery caption="Gallery" %}
 
@@ -67,6 +99,17 @@ The pliers are made out of white PLA filament for the handle and the tip, and re
 | Left Tip                                       | PLA          |
 | Right Tip                                      | PLA          |
 
+**Assembly Steps:**
+* 1) Print the two PLA halves and the TPU spring.
+* 2) Orient the rigid halves so mating cavities are aligned.
+* 3) Press the TPU spring into one handle cavity until retention ribs engage.
+* 4) Press the second handle over the exposed portion of the spring and snap the two halves together. Assembly should be manual.
+* 5) Test action: pliers should open automatically; squeeze to close and pick up a resistor by the jaw tips.
+ 
+**Applications of print-in-place:**
+*
+*
 
+Sources: 
 
 
