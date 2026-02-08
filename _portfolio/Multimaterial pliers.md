@@ -23,9 +23,12 @@ gallery:
   - url: /assets/img/for_gallery_3.jpeg
     image_path: /assets/img/for_gallery_3.jpeg
     alt: "Pliers 3"
-  - url: /assets/img/for_gallery_3.jpeg
-    image_path: /assets/img/for_gallery_3.jpeg
-    alt: "Pliers 3"
+  - url: /assets/img/WhatsApp Video 2026-02-08 at 12.00.31.mp4
+    image_path: /assets/img/WhatsApp Video 2026-02-08 at 12.00.31.mp4
+    alt: "Pliers picking up resistors"
+  - url: /assets/img/WhatsApp Video 2026-02-08 at 12.00.59.mp4
+    image_path: /assets/img/WhatsApp Video 2026-02-08 at 12.00.59.mp4
+    alt: "Pliers closing and opening"
 ---
 
 <style>
