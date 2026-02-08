@@ -26,8 +26,8 @@ gallery:
   - url: /assets/img/WhatsApp Video 2026-02-08 at 12.00.31.gif
     image_path: /assets/img/WhatsApp Video 2026-02-08 at 12.00.31.gif
     alt: "Pliers picking up resistors"
-  - url: /assets/img/WhatsApp Video 2026-02-08 at 12.00.59.gif
-    image_path: /assets/img/WhatsApp Video 2026-02-08 at 12.00.59.gif
+  - url: /assets/img/Adobe Express - video1.gif.gif
+    image_path: /assets/img/Adobe Express - video1.gif.gif
     alt: "Pliers closing and opening"
 ---
 
