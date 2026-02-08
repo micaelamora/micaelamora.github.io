@@ -42,7 +42,7 @@ gallery:
 
 
 # Description of the prototype 
-These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid PLA halves (white) form the handles and jaws, and a single red TPU spring element gives the pliers a reliable return/opening action. The assembly is a 3-part press-fit (2 rigid pieces + 1 elastic spring) printed in a Vorno 3D printer. The approach keeps the crisp, rigid gripping surfaces where you need them and uses a compliant elastomer only for the spring function.
+These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid PLA halves (white) form the handles and jaws, and a single red TPU spring element gives the pliers a reliable return/opening action. The assembly is a 3-part press-fit (2 rigid pieces + 1 elastic spring) printed in a Voron 3D printer. The approach keeps the crisp, rigid gripping surfaces where you need them and uses a compliant elastomer only for the spring function.
 
 # Design Features 
 * **Materials:**
