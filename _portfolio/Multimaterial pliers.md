@@ -90,7 +90,6 @@ These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid P
 | Left Tip                                       | PLA          |
 | Right Tip                                      | PLA          |
 
-**Assembly Steps:**  
   
 {% include gallery caption="Gallery" %}
 
