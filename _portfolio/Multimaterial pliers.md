@@ -65,22 +65,6 @@ These 15 cm needle-nose pliers are a hybrid print + assembly design: two rigid P
  
 
 # Printing Setting 
- **Rigid PLA handles**
-* Material: White PLA
-* Fill density: 15%
-* Supports: Everywhere
-* Infill Pattern: Rectilinear
-* Minimum shell thickness: 0.8 mm
-* Top Infill Pattern: Monotonic
-
- **Spring Center**
-* Material: Red TPU 95
-* Fill Density: 31%
-* Supports: Everywhere
-* Infill Pattern: Grid
-* Minimum Shell thickness: 0 mm
-* Top Infill Patter: Monotonic
-
 
 | Part                        |   Left Handle  |  Right Handle |  Spring Center  |  Right  Tip  |  Left Tip   |
 |-----------------------------|----------------|---------------|-----------------|--------------|-------------|
