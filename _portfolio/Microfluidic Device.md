@@ -40,6 +40,7 @@ gallery:
 }
 </style>
 
+
 **Introduction**
 
 o What is pinch flow fractionation? How does it work?  
@@ -73,3 +74,6 @@ o Picture of the mold
 o Picture of Plasma treating process (image supplied) 
 o Picture of casted device 
 o Embedded YouTube video of the device working. 
+
+# CAD Model 
+<iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
