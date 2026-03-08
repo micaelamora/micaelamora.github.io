@@ -41,14 +41,14 @@ gallery:
 </style>
 
 
-**Introduction**
+# Introduction
 
 o What is pinch flow fractionation? How does it work?  
 o Provide at least one specific application that requires sorting small particles. Benefits of 
 PFF over traditional techniques (e.g., filters) for sorting this particle? Include at least one 
 citation from primary literature. Citation should be hyperlinked. 
 
-**Design** 
+# Design
 
 o Did you choose a symmetric or asymmetric approach? 
 o How did you decide where to place the outlet boundaries for small particles, large 
@@ -57,7 +57,8 @@ o How did you attempt to solve the flow balancing problem discussed in the begin
 this document? 
 o What would you change about your outlet geometry if you could iterate on this 
 design? 
-**Instructions**
+
+# Instructions
 
 o Briefly list the most important steps for creating a μfluidic device with resin printing.   
 Discussion 
@@ -67,7 +68,7 @@ sizes?
 o What factors set the lower limit on the particle size that can be separated with pinch
 flow fractionation?  
 
-**Multimedia** 
+# Multimedia
 o Sketch showing critical dimensions of channels (hand drawn or from CAD) 
 o Picture of Testing setup (syringe pumps, device, etc.) 
 o Picture of the mold 
@@ -77,3 +78,7 @@ o Embedded YouTube video of the device working.
 
 # CAD Model 
 <iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+
+<h2>References:</h2>
+* Paper1 link
+* Paper 2 link
