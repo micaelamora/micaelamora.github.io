@@ -7,12 +7,38 @@ sidebar:
   nav: false
 
 category: fabrication
-excerpt: "Microfluidic device made out of PDMS"
+excerpt: "3D printed mold for Microfluidic device"
 
 header:
   image: /assets/img/main picture of microfluidci.png
   teaser: /assets/img/main picture of microfluidci.png
 
+gallery:
+  - url: /assets/img/micro 2 picture.jpeg
+    image_path: /assets/img/micro 2 picture.jpeg
+    alt: "Microfluidic mold"
+  - url: /assets/img/micro 5.jpeg
+    image_path: /assets/img/micro 5.jpeg
+    alt: "microfluidic mold different angle"
+  - url: /assets/img/picture 1 micro.jpeg
+    image_path: /assets/img/picture 1 micro.jpeg
+    alt: "mold of microfluidic"
+  - url: /assets/img/picture 3 micro mold.jpeg
+    image_path: /assets/img/picture 3 micro mold.jpeg
+    alt: "mold"
+  - url: /assets/img/picture 4.jpeg
+    image_path: /assets/img/picture 4.jpeg
+    alt: "Mold"
+---
+
+<style>
+.gallery img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+</style>
 
 
 **Introduction**
