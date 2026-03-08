@@ -10,35 +10,9 @@ category: fabrication
 excerpt: "Microfluidic device made out of PDMS"
 
 header:
-  image: /assets/img/render 2 white bacground.png
-  teaser: /assets/img/render 2 white bacground.png
+  image: /assets/img/main picture of microfluidci.png
+  teaser: /assets/img/main picture of microfluidci.png
 
-gallery:
-  - url: /assets/img/for_gallery_1.jpeg
-    image_path: /assets/img/for_gallery_1.jpeg
-    alt: "Pliers 1"
-  - url: /assets/img/for_gallery_2.jpeg
-    image_path: /assets/img/for_gallery_2.jpeg
-    alt: "pliers 2"
-  - url: /assets/img/for_gallery_3.jpeg
-    image_path: /assets/img/for_gallery_3.jpeg
-    alt: "Pliers 3"
-  - url: /assets/img/Adobe Express - video2.gif.gif
-    image_path: /assets/img/Adobe Express - video2.gif.gif
-    alt: "Pliers picking up resistors"
-  - url: /assets/img/Adobe Express - video1.gif.gif
-    image_path: /assets/img/Adobe Express - video1.gif.gif
-    alt: "Pliers closing and opening"
----
-
-<style>
-.gallery img {
-    max-width: 300px;
-    height: auto;
-    display: block;
-    margin: 10px auto;
-}
-</style>
 
 
 **Introduction**
