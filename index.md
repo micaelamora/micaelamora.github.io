@@ -27,6 +27,11 @@ feature_row:
     alt: "Multimaterial Pliers"
     title: "Needle Nose Pliers"
     excerpt: "Pliers made out of TPU and PLA designed for picking up small objects"
+  - image_path: /assets/img/main picture of microfluidci.png
+    alt: "Microfluidic Device made with resin printed mold"
+    title: "Microfluidic Device"
+    excerpt: "PDMS microfluidic device made in a resin 3D printed mold"
+    
 ---
 
 {% include feature_row %}
