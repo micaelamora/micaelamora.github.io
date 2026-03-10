@@ -1,5 +1,5 @@
 ---
-title: "Microflluidic Device"
+title: "Microfluidic Device"
 layout: single
 classes: wide
 author_profile: false
@@ -40,8 +40,7 @@ gallery:
 }
 </style>
 
-
-# Introduction
+<h2>Introduction:</h2>
 
 Pinched Flow Fractionation (PFF) is a microfluidic technique used to separate particles based on size. In a microchannel with a narrow (pinched) segment, particles are aligned against one sidewall by a particle-free fluid stream. As the channel widens, the flow profile spreads the particles laterally, separating them according to their size.
 
@@ -58,7 +57,7 @@ These features make PFF a cost-effective and reliable solution for particle sort
 
 
 
-# Design
+<h2>Design:</h2>
 
 * Did you choose a symmetric or asymmetric approach? 
 * How did you decide where to place the outlet boundaries for small particles, large 
@@ -66,9 +65,9 @@ particles, and buffer flow?
 * How did you attempt to solve the flow balancing problem discussed in the beginning of 
 this document? 
 * What would you change about your outlet geometry if you could iterate on this 
-design? 
+design?
 
-# Instructions
+<h2>Instructions:</h2>
 
 * Briefly list the most important steps for creating a μfluidic device with resin printing.   
 Discussion 
@@ -78,7 +77,7 @@ sizes?
 * What factors set the lower limit on the particle size that can be separated with pinch
 flow fractionation?  
 
-# Multimedia
+<h2>Multimedia:</h2>
 * Sketch showing critical dimensions of channels (hand drawn or from CAD) 
 * Picture of Testing setup (syringe pumps, device, etc.) 
 * Picture of the mold 
@@ -90,5 +89,5 @@ flow fractionation?
 <iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
 
 <h2>References:</h2>
-* Paper1 link
-* Paper 2 link
+* A comprehensive review of pinch flow fractionation in microfluidics: From principles to practical applications - ScienceDirect
+* [View the paper (DOI)](https://doi.org/https://www.sciencedirect.com/science/article/pii/S0255270124004252#sec0014)
