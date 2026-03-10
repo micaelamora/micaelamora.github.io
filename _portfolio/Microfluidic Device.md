@@ -43,10 +43,20 @@ gallery:
 
 # Introduction
 
-o What is pinch flow fractionation? How does it work?  
-o Provide at least one specific application that requires sorting small particles. Benefits of 
-PFF over traditional techniques (e.g., filters) for sorting this particle? Include at least one 
-citation from primary literature. Citation should be hyperlinked. 
+Pinched Flow Fractionation (PFF) is a microfluidic technique used to separate particles based on size. In a microchannel with a narrow (pinched) segment, particles are aligned against one sidewall by a particle-free fluid stream. As the channel widens, the flow profile spreads the particles laterally, separating them according to their size.
+
+PFF is a versatile and promising technology with applications in biomedical, environmental, and industrial fields. It is widely used to isolate and analyze cells, viruses, extracellular vesicles, blood components, metal particles, polymers, and more. In biomedicine, PFF supports disease detection, biomarker discovery, and drug delivery optimization by enabling precise size-based particle separation. This capability helps advance personalized medicine and targeted treatments.
+
+Advantages of PFF include:
+o Passive operation (no external energy required)
+o High separation efficiency
+o Continuous processing
+o Low-cost, simple fabrication
+o Reduced risk of clogging compared to traditional filters
+
+These features make PFF a cost-effective and reliable solution for particle sorting across a wide range of applications.
+
+
 
 # Design
 
