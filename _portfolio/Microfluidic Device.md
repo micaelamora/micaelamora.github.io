@@ -48,11 +48,11 @@ Pinched Flow Fractionation (PFF) is a microfluidic technique used to separate pa
 PFF is a versatile and promising technology with applications in biomedical, environmental, and industrial fields. It is widely used to isolate and analyze cells, viruses, extracellular vesicles, blood components, metal particles, polymers, and more. In biomedicine, PFF supports disease detection, biomarker discovery, and drug delivery optimization by enabling precise size-based particle separation. This capability helps advance personalized medicine and targeted treatments.
 
 Advantages of PFF include:
-o Passive operation (no external energy required)
-o High separation efficiency
-o Continuous processing
-o Low-cost, simple fabrication
-o Reduced risk of clogging compared to traditional filters
+* Passive operation (no external energy required)
+* High separation efficiency
+* Continuous processing
+* Low-cost, simple fabrication
+* Reduced risk of clogging compared to traditional filters
 
 These features make PFF a cost-effective and reliable solution for particle sorting across a wide range of applications.
 
@@ -60,31 +60,31 @@ These features make PFF a cost-effective and reliable solution for particle sort
 
 # Design
 
-o Did you choose a symmetric or asymmetric approach? 
-o How did you decide where to place the outlet boundaries for small particles, large 
+* Did you choose a symmetric or asymmetric approach? 
+* How did you decide where to place the outlet boundaries for small particles, large 
 particles, and buffer flow? 
-o How did you attempt to solve the flow balancing problem discussed in the beginning of 
+* How did you attempt to solve the flow balancing problem discussed in the beginning of 
 this document? 
-o What would you change about your outlet geometry if you could iterate on this 
+* What would you change about your outlet geometry if you could iterate on this 
 design? 
 
 # Instructions
 
-o Briefly list the most important steps for creating a μfluidic device with resin printing.   
+* Briefly list the most important steps for creating a μfluidic device with resin printing.   
 Discussion 
-o Why resin printing compared to other manufacturing techniques? 
-o How could your design be scaled up or modified to handle a wider range of particle 
+* Why resin printing compared to other manufacturing techniques? 
+* How could your design be scaled up or modified to handle a wider range of particle 
 sizes? 
-o What factors set the lower limit on the particle size that can be separated with pinch
+* What factors set the lower limit on the particle size that can be separated with pinch
 flow fractionation?  
 
 # Multimedia
-o Sketch showing critical dimensions of channels (hand drawn or from CAD) 
-o Picture of Testing setup (syringe pumps, device, etc.) 
-o Picture of the mold 
-o Picture of Plasma treating process (image supplied) 
-o Picture of casted device 
-o Embedded YouTube video of the device working. 
+* Sketch showing critical dimensions of channels (hand drawn or from CAD) 
+* Picture of Testing setup (syringe pumps, device, etc.) 
+* Picture of the mold 
+* Picture of Plasma treating process (image supplied) 
+* Picture of casted device 
+* Embedded YouTube video of the device working. 
 
 # CAD Model 
 <iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
