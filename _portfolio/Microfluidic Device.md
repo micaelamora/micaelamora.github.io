@@ -91,6 +91,6 @@ flow fractionation?
 <h2>References:</h2>
 * [A comprehensive review of pinch flow fractionation in microfluidics: From principles to practical applications - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0255270124004252#sec0014)
 * [Microfluidics for separation, detection, and engineering of extracellular vesicles - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0169409X2600044X#f0030)
-* [Precise Size-Based Cell Separation via the Coupling of Inertial Microfluidics and Deterministic Lateral Displacement | Analytical Chemistry](https://pubs.acs.org/doi/10.1021/acs.analchem.9b02863?src=getftr&utm_source=sciencedirect_contenthosting&getft_integrator=sciencedirect_contenthosting)
+* [Precise Size-Based Cell Separation via the Coupling of Inertial Microfluidics and Deterministic Lateral Displacement Analytical Chemistry] (https://pubs.acs.org/doi/10.1021/acs.analchem.9b02863?src=getftr&utm_source=sciencedirect_contenthosting&getft_integrator=sciencedirect_contenthosting) 
 * [Particle separation and sorting in microfluidic devices: a review](https://www.academia.edu/38077515/Particle_separation_and_sorting_in_microfluidic_devices_a_review)
 * [Design advances in pinched flow fractionation for enhanced particle separation in microfluidics - Lab on a Chip (RSC Publishing)](https://pubs.rsc.org/en/Content/ArticleLanding/2025/LC/D5LC00497G)
