@@ -89,5 +89,4 @@ flow fractionation?
 <iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
 
 <h2>References:</h2>
-* A comprehensive review of pinch flow fractionation in microfluidics: From principles to practical applications - ScienceDirect
-* [View the paper (DOI)](https://doi.org/https://www.sciencedirect.com/science/article/pii/S0255270124004252#sec0014)
+* [A comprehensive review of pinch flow fractionation in microfluidics: From principles to practical applications - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0255270124004252#sec0014)
