@@ -18,7 +18,7 @@ gallery:
     alt: "Plasma Treating"
   - image_path: /assets/img/micro5.jpeg
     alt: "microfluidic mold different angle"
- - image_path: /assets/img/microfluidicdevicewdimensions.png
+ - image_path: /assets/img/dimensions.png
     alt: "dimensions of the mold"
 
 ---
