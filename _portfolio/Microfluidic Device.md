@@ -18,12 +18,6 @@ gallery:
     alt: "Microfluidic mold"
   - image_path: /assets/img/micro5.jpeg
     alt: "microfluidic mold different angle"
-  - image_path: /assets/img/picture1micro.jpeg
-    alt: "mold of microfluidic"
-  - image_path: /assets/img/picture3micromold.jpeg
-    alt: "mold"
-  - image_path: /assets/img/picture4.jpeg
-    alt: "Mold"
 ---
 
 <style>
