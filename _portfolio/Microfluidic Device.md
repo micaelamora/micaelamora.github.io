@@ -15,19 +15,19 @@ header:
 
 gallery:
   - url: /assets/img/micro 2 picture.jpeg
-    image_path: /assets/img/micro 2 picture.jpeg
+    image_path: /assets/img/micro2picture.jpeg
     alt: "Microfluidic mold"
-  - url: /assets/img/micro 5.jpeg
-    image_path: /assets/img/micro 5.jpeg
+  - url: /assets/img/micro5.jpeg
+    image_path: /assets/img/micro5.jpeg
     alt: "microfluidic mold different angle"
-  - url: /assets/img/picture 1 micro.jpeg
-    image_path: /assets/img/picture 1 micro.jpeg
+  - url: /assets/img/picture1micro.jpeg
+    image_path: /assets/img/picture1micro.jpeg
     alt: "mold of microfluidic"
-  - url: /assets/img/picture 3 micro mold.jpeg
-    image_path: /assets/img/picture 3 micro mold.jpeg
+  - url: /assets/img/picture3micromold.jpeg
+    image_path: /assets/img/picture3micromold.jpeg
     alt: "mold"
-  - url: /assets/img/picture 4.jpeg
-    image_path: /assets/img/picture 4.jpeg
+  - url: /assets/img/picture4.jpeg
+    image_path: /assets/img/picture4.jpeg
     alt: "Mold"
 ---
 
