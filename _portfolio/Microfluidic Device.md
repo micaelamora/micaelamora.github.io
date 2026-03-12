@@ -10,8 +10,8 @@ category: fabrication
 excerpt: "3D printed mold for Microfluidic device"
 
 header:
-  image: /assets/img/main picture of microfluidci.png
-  teaser: /assets/img/main picture of microfluidci.png
+  image: /assets/img/mainpictureofmicrofluidci.png
+  teaser: /assets/img/mainpictureofmicrofluidci.png
 
 gallery:
   - image_path: /assets/img/micro2picture.jpeg
