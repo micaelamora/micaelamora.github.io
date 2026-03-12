@@ -14,13 +14,12 @@ header:
   teaser: /assets/img/mainpictureofmicrofluidci.png
 
 gallery:
-  - image_path: /assets/img/Plasma-Treating-Image (2).jpg
+  - image_path: /assets/img/plasma-treating-image-2.jpg
     alt: "Plasma Treating"
   - image_path: /assets/img/micro5.jpeg
     alt: "microfluidic mold different angle"
- - image_path: /assets/img/dimensionsof1.png
+  - image_path: /assets/img/dimensionsof1.png
     alt: "dimensions of the mold"
-
 ---
 
 <style>
@@ -47,8 +46,6 @@ Advantages of PFF include:
 
 These features make PFF a cost-effective and reliable solution for particle sorting across a wide range of applications.
 
-
-
 <h2>Design:</h2>
 
 * Did you choose a symmetric or asymmetric approach? 
@@ -58,7 +55,9 @@ particles, and buffer flow?
 this document? 
 * What would you change about your outlet geometry if you could iterate on this 
 design?
-The design picked was the symmetric one. It included three outlets and two intlets, the main idea behind the design was based on the work done 
+
+The design picked was the symmetric one. It included three outlets and two inlets; the main idea behind the design was based on previous literature and on creating balanced flows so particle streams separate cleanly as the channel widens.
+
 <h2>Instructions:</h2>
 
 * Briefly list the most important steps for creating a μfluidic device with resin printing.   
@@ -78,7 +77,6 @@ flow fractionation?
 * Embedded YouTube video of the device working. 
 
 {% include gallery caption="Gallery" %}
-
 
 # CAD Model 
 <iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
