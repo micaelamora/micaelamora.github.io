@@ -20,11 +20,6 @@ gallery:
     alt: "microfluidic mold different angle"
 ---
 
-<div class="gallery">
-  <img src="{{ '/assets/img/micro2picture.jpeg' | relative_url }}" alt="Microfluidic mold - view 1">
-  <img src="{{ '/assets/img/micro5.jpeg'        | relative_url }}" alt="Microfluidic mold - view 2">
-</div>
-
 <style>
 .gallery img {
     max-width: 300px;
@@ -78,6 +73,9 @@ flow fractionation?
 * Picture of Plasma treating process (image supplied) 
 * Picture of casted device 
 * Embedded YouTube video of the device working. 
+
+{% include gallery caption="Gallery" %}
+
 
 # CAD Model 
 <iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
