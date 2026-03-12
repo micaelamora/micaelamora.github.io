@@ -14,8 +14,8 @@ header:
   teaser: /assets/img/mainpictureofmicrofluidci.png
 
 gallery:
-  - image_path: /assets/img/micro2picture.jpeg
-    alt: "Microfluidic mold"
+  - image_path: /assets/img/Plasma-Treating-Image (2).jpg
+    alt: "Plasma Treating"
   - image_path: /assets/img/micro5.jpeg
     alt: "microfluidic mold different angle"
 ---
