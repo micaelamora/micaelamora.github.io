@@ -60,7 +60,7 @@ particles, and buffer flow?
 this document? 
 * What would you change about your outlet geometry if you could iterate on this 
 design?
-
+The design picked was the symmetric one. It included three outlets and two intlets, the main idea behind the design was based on the work done 
 <h2>Instructions:</h2>
 
 * Briefly list the most important steps for creating a μfluidic device with resin printing.   
