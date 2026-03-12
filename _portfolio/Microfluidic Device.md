@@ -20,6 +20,11 @@ gallery:
     alt: "microfluidic mold different angle"
 ---
 
+<div class="gallery">
+  <img src="{{ '/assets/img/micro2picture.jpeg' | relative_url }}" alt="Microfluidic mold - view 1">
+  <img src="{{ '/assets/img/micro5.jpeg'        | relative_url }}" alt="Microfluidic mold - view 2">
+</div>
+
 <style>
 .gallery img {
     max-width: 300px;
