@@ -14,8 +14,8 @@ header:
   teaser: /assets/img/mainpictureofmicrofluidci.png
 
 gallery:
-  - url: /assets/img/plasma.jpeg
-    image_path: /assets/img/plasma.jpg
+  - url: /assets/img/plasma1.jpg
+    image_path: /assets/img/plasma1.jpg
     alt: "Plasma Treating"
   - url: /assets/img/micro5.jpeg
     image_path: /assets/img/micro5.jpeg
