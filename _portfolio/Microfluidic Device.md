@@ -72,10 +72,7 @@ sizes?
 flow fractionation?  
 
 <h2>Multimedia:</h2>
-* Sketch showing critical dimensions of channels (hand drawn or from CAD) 
 * Picture of Testing setup (syringe pumps, device, etc.) 
-* Picture of the mold 
-* Picture of Plasma treating process (image supplied) 
 * Picture of casted device 
 * Embedded YouTube video of the device working. 
 
