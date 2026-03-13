@@ -14,11 +14,14 @@ header:
   teaser: /assets/img/mainpictureofmicrofluidci.png
 
 gallery:
-  - image_path: /assets/img/plasma.jpg
+  - url: /assets/img/plasma.jpeg
+    image_path: /assets/img/plasma.jpg
     alt: "Plasma Treating"
-  - image_path: /assets/img/micro5.jpeg
+  - url: /assets/img/micro5.jpeg
+    image_path: /assets/img/micro5.jpeg
     alt: "microfluidic mold different angle"
-  - image_path: /assets/img/dimensionsof1.png
+  - url: /assets/img/dimensionsof1.png
+    image_path: /assets/img/dimensionsof1.png
     alt: "dimensions of the mold"
 ---
 
