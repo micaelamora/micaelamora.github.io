@@ -20,24 +20,30 @@ Micaela is a mechanical engineering student.
 *  Gonzales Lab at Vanderbilt
    * Undergraduate Research Assistant (August 2024 - Present)  
   
-
-## Micro/Nano Fabrication Skills
+## Micro/Nano Fabrication Skills:
 
 Micaela can operate a number of different semiconductor manufacturing and characterization tools including:
 
-* AJA Sputter Deposition
-* Angstrom Multimode (e-beam)
-* Minilock
-* Profilometer
-* Spin Coater
-* Mask Aligner
-* Scanning Electron Microscope (SEM)
-* Photolithography
+* Sputter Deposition - AJA ATC-2200
+* Multimode Deposition Chamber - Angstrom Amod - Combined E-beam, Resistive & Sputter Deposition Chamber
+* Reactive Ion Etch Chlorine - Trion Minilock II RIE
+* Stylus Profilometer - KLA Tencor P-7
+* Stylus Profilometer - Bruker Dektak 150
+* Scanning Electron Microscope - Zeiss Merlin with Gemini II Column
+* Parylene Coater - SCS Labcoter 3
+* Four Point Probe - Ossila T2001A
+* Spectroscopic Ellipsometer - JA Woollam M-2000VI
+* Spectrophotometer - Agilent Technologies Cary 5000 UV-VIS-NIR
+* Electroplating System
+* Mask Aligner - Karl Suss MA-6
+* Assorted spin coaters and hot plates
+
 
 ## Technical Skills
 * 3D Printing
 * Fused Filament Fabrication (FFF)
 * Welding
+* Laser Cutting
 
 ## Research and Publications
 * Developing an Electroplating Technique for Soft Lithography
