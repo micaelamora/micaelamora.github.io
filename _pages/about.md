@@ -34,7 +34,7 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 * Four Point Probe - Ossila T2001A
 * Spectroscopic Ellipsometer - JA Woollam M-2000VI
 * Spectrophotometer - Agilent Technologies Cary 5000 UV-VIS-NIR
-* Electroplating System
+* Electroplating Systems (Copper and Nickel)
 * Mask Aligner - Karl Suss MA-6
 * Assorted spin coaters and hot plates
 
