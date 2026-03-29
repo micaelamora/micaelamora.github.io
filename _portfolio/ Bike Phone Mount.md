@@ -6,7 +6,7 @@ author_profile: false
 sidebar:
   nav: false
 
-category: personal
+category: fabrication
 excerpt: "Head Post used to study neural activities in mice"
 
 header:
