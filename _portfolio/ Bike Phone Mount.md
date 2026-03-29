@@ -31,16 +31,27 @@ gallery:
 }
 </style>
 
-# Description of the prototype 
-The prototype is a miniature neural recording headset designed for small animals, such as mice, to be placed on the skulls with a pcb to monitor brain activity in real time. This lightweight, compact device allows for chronic implantation or temporary attachment, minimizing stress or interference with normal behavior. The long-term housing enables continuous neural signal recording and transmission while minimizing impact on the animal’s comfort and natural movement.
-The system is intended for neuroscience research, enabling studies of neural dynamics, brain circuitry, and behavior correlations. Safety and durability are key considerations, ensuring the headset remains securely in place without affecting natural behavior.
+ 
 
-
-# Prototype Specifications
-* Weight: <3 grams
-* Dimensions: 30 mm × 10 mm × 1.5 mm (compact to fit on the skull of mice)
-* Material: Biocompatible resin 
-
+▪ A description of top-down modeling and how it was leveraged in this 
+assignment.  
+▪ Rationale behind your design 
+• How did you implement the detent mechanism? Does it work 
+well? 
+• Did you have to change any dimensions to account for the 3D 
+printing process? 
+• What type of 3D printing did you use? Why? 
+▪ Brief Assembly/use instructions 
+▪ Which printing technology and why did you use for each part?  
+o Embedded Interactive CAD model 
+o Figures: 
+▪ Real-life picture(s) of printed model in use on bike handlebars. 
+▪ Real-life .GIF of the holder rotating between landscape and portrait  
+▪ Fusion Rendering of phone holder with phone on it.  
+▪ Cross-section view of internal rotation mechanism.  This can be a 
+screenshot of the design workspace with the section analysis tool.  
+▪ Individual images of each of the top-down components. This can be real
+life or Fusion renderings. 
 
   
 {% include gallery caption="Gallery" %}
