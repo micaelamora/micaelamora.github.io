@@ -3,18 +3,21 @@
 title: "About Micaela Mora"
 
 ---
-I am an international student from Asunción, Paraguay, highly interested in the semiconductor manufacturing industry and currently seeking summer opportunities for 2026. 
+I am an international student from Asunción, Paraguay, highly interested in the semiconductor manufacturing industry. 
 
 ## Education
 
 Micaela is a mechanical engineering student. 
 
 * Vanderbilt University
-  * BS Mechanical Engineering (Expected: May 2027)
+  * BE Mechanical Engineering (Expected: May 2027)
+    Minors: Material Science and Digital Fabrication
 
 ## Work Experience
 
-*  Vanderbilt Institute of Nanoscale Science and Engineering
+
+* Nissha Medical Technologies Incoming Summer Intern 2026
+*    Vanderbilt Institute of Nanoscale Science and Engineering
    * Nanoscale Engineering Summer Tech Crew  (May 2025 - August 2025) 
    * Associate Nanoscale Engineering Tech Crew  (August 2025 - Present)
 *  Gonzales Lab at Vanderbilt
@@ -36,6 +39,7 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 * Spectrophotometer - Agilent Technologies Cary 5000 UV-VIS-NIR
 * Electroplating Systems (Copper and Nickel)
 * Mask Aligner - Karl Suss MA-6
+* Vacuum Oven - Thermo Scientific Lindberg Blue M
 * Assorted spin coaters and hot plates
 
 
