@@ -15,9 +15,8 @@ Micaela is a mechanical engineering student.
 
 ## Work Experience
 
-
 * Nissha Medical Technologies Incoming Summer Intern 2026
-*    Vanderbilt Institute of Nanoscale Science and Engineering
+*  Vanderbilt Institute of Nanoscale Science and Engineering
    * Nanoscale Engineering Summer Tech Crew  (May 2025 - August 2025) 
    * Associate Nanoscale Engineering Tech Crew  (August 2025 - Present)
 *  Gonzales Lab at Vanderbilt
