@@ -23,6 +23,16 @@ gallery:
   - url: /assets/img/dimensionsof1.png
     image_path: /assets/img/dimensionsof1.png
     alt: "dimensions of the mold"
+  - url: /assets/img/Mold Resin.jpeg
+    image_path: /assets/img/Mold Resin.jpeg
+    alt: "Mold of Resin"
+  - url: /assets/img/Printed Parts.jpeg
+    image_path: /assets/img/Printed Parts.jpeg
+    alt: "Printed Mold"
+  - url: /assets/img/Finished Molds.jpeg
+    image_path: /assets/img/Finished Molds.jpeg
+    alt: "Finished Molds"   
+    
 ---
 
 <style>
