@@ -53,7 +53,6 @@ Pinched Flow Fractionation (PFF) is a microfluidic technique used to separate pa
 PFF is a versatile and promising technology with applications in biomedical, environmental, and industrial fields. It is widely used to isolate and analyze cells, viruses, extracellular vesicles, blood components, metal particles, polymers, and more. In biomedicine, PFF supports disease detection, biomarker discovery, and drug delivery optimization by enabling precise size-based particle separation. This capability helps advance personalized medicine and targeted treatments.
 
 Advantages of PFF include:
-* Passive operation (no external energy required)
 * High separation efficiency
 * Continuous processing
 * Low-cost, simple fabrication
