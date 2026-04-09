@@ -62,26 +62,15 @@ These features make PFF a cost-effective and reliable solution for particle sort
 
 <h2>Design:</h2>
 
-* Did you choose a symmetric or asymmetric approach? 
-* How did you decide where to place the outlet boundaries for small particles, large particles, and buffer flow? 
-* How did you attempt to solve the flow balancing problem discussed in the beginning of this document? 
-* What would you change about your outlet geometry if you could iterate on this design?
-
 The design picked was the symmetric one. It included three outlets and two inlets; the main idea behind the design was based on previous literature and on creating balanced flows so particle streams separate cleanly as the channel widens.
 
 <h2>Instructions:</h2>
 
-* Briefly list the most important steps for creating a μfluidic device with resin printing.   
-Discussion 
-* Why resin printing compared to other manufacturing techniques?
-* How could your design be scaled up or modified to handle a wider range of particle sizes?
-* What factors set the lower limit on the particle size that can be separated with pinch flow fractionation?
+
 
 <h2>Multimedia:</h2>
 
-* Picture of Testing setup (syringe pumps, device, etc.) 
-* Picture of casted device 
-* Embedded video of the device working.
+
 
 {% include gallery caption="Gallery" %}
 
