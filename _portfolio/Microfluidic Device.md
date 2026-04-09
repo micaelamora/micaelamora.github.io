@@ -23,6 +23,8 @@ gallery:
   - url: /assets/img/dimensionsof1.png
     image_path: /assets/img/dimensionsof1.png
     alt: "dimensions of the mold"
+  - url: /assests/img/Microfluidics.mp4
+    alt: "Working Microfluidic"
 ---
 
 <style>
@@ -87,3 +89,4 @@ flow fractionation?
 * [Precise Size-Based Cell Separation via the Coupling of Inertial Microfluidics and Deterministic Lateral Displacement - Analytical Chemistry](https://pubs.acs.org/doi/10.1021/acs.analchem.9b02863?src=getftr&utm_source=sciencedirect_contenthosting&getft_integrator=sciencedirect_contenthosting) 
 * [Particle separation and sorting in microfluidic devices: a review](https://www.academia.edu/38077515/Particle_separation_and_sorting_in_microfluidic_devices_a_review)
 * [Design advances in pinched flow fractionation for enhanced particle separation in microfluidics - Lab on a Chip (RSC Publishing)](https://pubs.rsc.org/en/Content/ArticleLanding/2025/LC/D5LC00497G)
+* [Separation enhancement in pinched flow fractionation]  (https://pubs.aip.org/aip/apl/article/93/20/203507/336137/Separation-enhancement-in-pinched-flow)
