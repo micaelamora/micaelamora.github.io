@@ -26,8 +26,8 @@ gallery:
   - url: /assets/img/Mold Resin.jpeg
     image_path: /assets/img/Mold Resin.jpeg
     alt: "Mold of Resin"
-  - url: /assets/img/Printed Parts.jpeg
-    image_path: /assets/img/Printed Parts.jpeg
+  - url: /assets/img/Printed Parts 2.jpeg
+    image_path: /assets/img/Printed Parts 2.jpeg
     alt: "Printed Mold"
   - url: /assets/img/Finished Molds.jpeg
     image_path: /assets/img/Finished Molds.jpeg
