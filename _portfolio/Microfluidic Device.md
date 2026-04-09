@@ -23,9 +23,6 @@ gallery:
   - url: /assets/img/dimensionsof1.png
     image_path: /assets/img/dimensionsof1.png
     alt: "dimensions of the mold"
-  - url: /assets/img/Microfluidics.mp4
-    image_path: /assets/img/Microfluidics.mp4
-    alt: "Working Microfluidic"
 ---
 
 <style>
@@ -34,6 +31,18 @@ gallery:
     height: auto;
     display: block;
     margin: 10px auto;
+}
+
+.video-box {
+    max-width: 300px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.video-box video {
+    width: 100%;
+    border-radius: 10px;
+    display: block;
 }
 </style>
 
@@ -55,12 +64,9 @@ These features make PFF a cost-effective and reliable solution for particle sort
 <h2>Design:</h2>
 
 * Did you choose a symmetric or asymmetric approach? 
-* How did you decide where to place the outlet boundaries for small particles, large 
-particles, and buffer flow? 
-* How did you attempt to solve the flow balancing problem discussed in the beginning of 
-this document? 
-* What would you change about your outlet geometry if you could iterate on this 
-design?
+* How did you decide where to place the outlet boundaries for small particles, large particles, and buffer flow? 
+* How did you attempt to solve the flow balancing problem discussed in the beginning of this document? 
+* What would you change about your outlet geometry if you could iterate on this design?
 
 The design picked was the symmetric one. It included three outlets and two inlets; the main idea behind the design was based on previous literature and on creating balanced flows so particle streams separate cleanly as the channel widens.
 
@@ -69,21 +75,28 @@ The design picked was the symmetric one. It included three outlets and two inlet
 * Briefly list the most important steps for creating a μfluidic device with resin printing.   
 Discussion 
 * Why resin printing compared to other manufacturing techniques?
-  
-* How could your design be scaled up or modified to handle a wider range of particle 
-sizes? 
-* What factors set the lower limit on the particle size that can be separated with pinch
-flow fractionation?  
+* How could your design be scaled up or modified to handle a wider range of particle sizes?
+* What factors set the lower limit on the particle size that can be separated with pinch flow fractionation?
 
 <h2>Multimedia:</h2>
+
 * Picture of Testing setup (syringe pumps, device, etc.) 
 * Picture of casted device 
-* Embedded YouTube video of the device working. 
+* Embedded video of the device working.
 
 {% include gallery caption="Gallery" %}
 
-# CAD Model 
-<iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+<div class="video-box">
+  <video controls playsinline preload="metadata">
+    <source src="/assets/img/Microfluidics.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p><strong>Working Microfluidic</strong></p>
+</div>
+
+<h2>CAD Model</h2>
+
+<iframe src="https://a360.co/4slzeCU" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 <h2>References:</h2>
 * [A comprehensive review of pinch flow fractionation in microfluidics: From principles to practical applications - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0255270124004252#sec0014)
@@ -91,4 +104,4 @@ flow fractionation?
 * [Precise Size-Based Cell Separation via the Coupling of Inertial Microfluidics and Deterministic Lateral Displacement - Analytical Chemistry](https://pubs.acs.org/doi/10.1021/acs.analchem.9b02863?src=getftr&utm_source=sciencedirect_contenthosting&getft_integrator=sciencedirect_contenthosting) 
 * [Particle separation and sorting in microfluidic devices: a review](https://www.academia.edu/38077515/Particle_separation_and_sorting_in_microfluidic_devices_a_review)
 * [Design advances in pinched flow fractionation for enhanced particle separation in microfluidics - Lab on a Chip (RSC Publishing)](https://pubs.rsc.org/en/Content/ArticleLanding/2025/LC/D5LC00497G)
-* [Separation enhancement in pinched flow fractionation]  (https://pubs.aip.org/aip/apl/article/93/20/203507/336137/Separation-enhancement-in-pinched-flow)
+* [Separation enhancement in pinched flow fractionation](https://pubs.aip.org/aip/apl/article/93/20/203507/336137/Separation-enhancement-in-pinched-flow)
