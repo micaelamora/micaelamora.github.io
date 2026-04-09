@@ -24,6 +24,7 @@ gallery:
     image_path: /assets/img/dimensionsof1.png
     alt: "dimensions of the mold"
   - url: /assests/img/Microfluidics.mp4
+    image_path: 
     alt: "Working Microfluidic"
 ---
 
@@ -67,7 +68,8 @@ The design picked was the symmetric one. It included three outlets and two inlet
 
 * Briefly list the most important steps for creating a μfluidic device with resin printing.   
 Discussion 
-* Why resin printing compared to other manufacturing techniques? 
+* Why resin printing compared to other manufacturing techniques?
+  
 * How could your design be scaled up or modified to handle a wider range of particle 
 sizes? 
 * What factors set the lower limit on the particle size that can be separated with pinch
