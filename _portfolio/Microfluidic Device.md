@@ -24,7 +24,7 @@ gallery:
     image_path: /assets/img/dimensionsof1.png
     alt: "dimensions of the mold"
   - url: /assests/img/Microfluidics.mp4
-    image_path: 
+    image_path: /assests/img/Microfluidics.mp4
     alt: "Working Microfluidic"
 ---
 
