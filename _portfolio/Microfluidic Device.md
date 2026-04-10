@@ -76,6 +76,9 @@ The design picked was the symmetric one. It included three outlets and two inlet
 
 <h2>Instructions:</h2>
 
+Creating a microfluidic device using resin printing begins with designing a mold in CAD software such as Fusion 360, where channel dimensions, inlets, and outlets are carefully defined based on printer resolution and desired flow behavior. This mold is then fabricated using an SLA resin printer, ensuring that the bottom surface is perfectly flat to enable proper sealing later. After printing, the mold undergoes post-processing, including washing in isopropyl alcohol to remove uncured resin, drying thoroughly, and a brief UV cure to solidify the surface while maintaining smooth channel features. Once cleaned and prepared, polydimethylsiloxane (PDMS) is mixed, poured over the mold, and degassed to eliminate bubbles before being cured at an elevated temperature. After curing, the PDMS is peeled off the mold, revealing the embedded microfluidic channels. The PDMS device is then bonded to a glass slide, typically using plasma treatment, to seal the channels and create a functional device. Finally, tubing is connected to the inlets and outlets, and the device is tested using controlled flow from syringe pumps to evaluate performance and ensure proper fluid behavior. 
+
+
 
 
 <h2>Multimedia:</h2>
