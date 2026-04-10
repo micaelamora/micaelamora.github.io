@@ -17,21 +17,13 @@ gallery:
   - url: /assets/img/plasma1.jpg
     image_path: /assets/img/plasma1.jpg
     alt: "Plasma Treating"
-  - url: /assets/img/micro5.jpeg
-    image_path: /assets/img/micro5.jpeg
-    alt: "microfluidic mold different angle"
   - url: /assets/img/dimensionsof1.png
     image_path: /assets/img/dimensionsof1.png
     alt: "dimensions of the mold"
-  - url: /assets/img/Mold Resin.jpeg
-    image_path: /assets/img/Mold Resin.jpeg
-    alt: "Mold of Resin"
   - url: /assets/img/Printed Parts 2.jpeg
     image_path: /assets/img/Printed Parts 2.jpeg
     alt: "Printed Mold"
-  - url: /assets/img/Finished Molds.jpeg
-    image_path: /assets/img/Finished Molds.jpeg
-    alt: "Finished Molds"   
+  
     
 ---
 
