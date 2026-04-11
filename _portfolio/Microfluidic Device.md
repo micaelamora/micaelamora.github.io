@@ -66,9 +66,7 @@ These features make PFF a cost-effective and reliable solution for particle sort
 
 The design selected for this device was a symmetric configuration consisting of three outlets and two inlets. The overall concept was inspired by the work of Nan Xiang and Jie Wang on coupling inertial microfluidics with deterministic lateral displacement (DLD), which enables precise, continuous, and size-based particle separation without the need for external forces or labeling. In their approach, particles are first focused using inertial effects and then further separated using a structured array that laterally displaces particles based on size differences. While their design incorporates a spiral channel as an initial focusing stage followed by a DLD array, the device developed here simplifies and adapts these principles to better align with the constraints of the assignment. Specifically, the inlet region does not include a spiral geometry and instead uses two straight inlets to control flow conditions before entering the main sorting region. Additionally, the design focuses on maintaining symmetric flow distribution across three outlets while still leveraging the core idea of size-based separation through controlled streamline behavior. These modifications preserve the fundamental separation mechanism described in the literature while making the device more feasible to fabricate and test within the scope of this project.
 
-$$
-Y_0 = \left(w_p - \frac{D}{2}\right)\frac{w_b}{w_p}
-$$
+![equation](https://latex.codecogs.com/svg.image?Y_0%20=%20\left(w_p%20-%20\frac{D}{2}\right)\frac{w_b}{w_p})
 
 
 <h2>Instructions:</h2>
