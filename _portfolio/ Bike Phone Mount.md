@@ -35,7 +35,10 @@ gallery:
 ▪ A description of top-down modeling and how it was leveraged in this 
 assignment.  
 The top down approach allows us to have multiple components in the same file and be able to edit them simultaneously.
-
+The phone attaches quickly to the holder without separate tools. The phone holder is compatible with phones of different 
+sizes. When mounted, the holder allows the phone to rotate and snap into place between landscape and portraits orientations without special tools. The 
+holder grips the phone securely to resist road vibrations. You may use hex/Allen keys for 
+originally installing the holder onto the bike handles.  
 ▪ Rationale behind your design 
 The design included the 
 • How did you implement the detent mechanism? Does it work well? 
