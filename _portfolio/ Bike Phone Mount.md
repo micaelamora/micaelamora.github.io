@@ -38,10 +38,8 @@ The top down approach allows us to have multiple components in the same file and
 
 ▪ Rationale behind your design 
 The design included the 
-• How did you implement the detent mechanism? Does it work 
-well? 
-• Did you have to change any dimensions to account for the 3D 
-printing process? 
+• How did you implement the detent mechanism? Does it work well? 
+• Did you have to change any dimensions to account for the 3D printing process? 
 • What type of 3D printing did you use? Why? 
 ▪ Brief Assembly/use instructions 
 ▪ Which printing technology and why did you use for each part?  
