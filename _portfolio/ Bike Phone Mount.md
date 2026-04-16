@@ -31,11 +31,13 @@ gallery:
 }
 </style>
 
- 
-
+ Description of the Prototype
 ▪ A description of top-down modeling and how it was leveraged in this 
 assignment.  
+The top down approach allows us to have multiple components in the same file and be able to edit them simultaneously.
+
 ▪ Rationale behind your design 
+The design included the 
 • How did you implement the detent mechanism? Does it work 
 well? 
 • Did you have to change any dimensions to account for the 3D 
