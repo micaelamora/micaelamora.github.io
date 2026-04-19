@@ -18,6 +18,12 @@ gallery:
   - url: /assets/img/picture of bike mount.png
     image_path: /assets/img/picture of bike mount.png
     alt: "Phone Holder"
+  - url: /assets/img/ball of ball bearing .png
+    image_path: /assets/img/ball of ball bearing .png
+    alt: "Phone Holder"
+  - url: /assets/img/square of ball bearing.png
+    image_path: /assets/img/square of ball bearing.png
+    alt: "Phone Holder"
 
 
 ---
@@ -31,24 +37,22 @@ gallery:
 }
 </style>
 
- Description of the Prototype
-▪ A description of top-down modeling and how it was leveraged in this 
-assignment.  
-The top down approach allows us to have multiple components in the same file and be able to edit them simultaneously.
-The phone attaches quickly to the holder without separate tools. The phone holder is compatible with phones of different 
-sizes. When mounted, the holder allows the phone to rotate and snap into place between landscape and portraits orientations without special tools. The 
-holder grips the phone securely to resist road vibrations. You may use hex/Allen keys for 
-originally installing the holder onto the bike handles.  
+Description of the Prototype
+▪ A description of top-down modeling and how it was leveraged in this assignment.  
+This bike-mounted phone holder was developed using a top-down modeling approach, which allows multiple components to be designed within a single file and edited simultaneously. This method ensures proper alignment, fit, and functional integration of all parts throughout the design process.
+The holder is designed for quick and convenient attachment of a phone without the need for additional tools during regular use. It accommodates a range of phone sizes and securely grips the device to withstand vibrations encountered while riding. Once mounted on the bike handlebars, the holder enables the phone to rotate and snap into both landscape and portrait orientations without requiring tools. Initial installation onto the handlebars may require hex (Allen) keys, but no tools are needed for everyday operation.
 ▪ Rationale behind your design 
 The design included the 
 • How did you implement the detent mechanism? Does it work well? 
+
 • Did you have to change any dimensions to account for the 3D printing process? 
+
 • What type of 3D printing did you use? Why? 
+
 ▪ Brief Assembly/use instructions 
 ▪ Which printing technology and why did you use for each part?  
 o Embedded Interactive CAD model 
-o Figures: 
-▪ Real-life picture(s) of printed model in use on bike handlebars. 
+
 ▪ Real-life .GIF of the holder rotating between landscape and portrait  
 ▪ Fusion Rendering of phone holder with phone on it.  
 ▪ Cross-section view of internal rotation mechanism.  This can be a 
