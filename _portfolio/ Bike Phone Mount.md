@@ -7,7 +7,7 @@ sidebar:
   nav: false
 
 category: fabrication
-excerpt: "Head Post used to study neural activities in mice"
+excerpt: "Bike mount for phones"
 
 header:
   image: /assets/img/picture of bike mount.png
