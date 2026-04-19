@@ -14,12 +14,7 @@ header:
   teaser: /assets/img/headset.png
 
 gallery:
-  - url: /assets/img/headset.png
-    image_path: /assets/img/headset.png
-    alt: "Head Post"
-  - url: /assets/img/head set top view.png
-    image_path: /assets/img/head set top view.png
-    alt: "Head Post"
+
 ---
 
 <style>
