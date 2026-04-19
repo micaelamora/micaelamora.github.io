@@ -1,5 +1,5 @@
 ---
-title: "Bike Mount Headpost"
+title: "Bike Mount"
 layout: single
 classes: wide
 author_profile: false
