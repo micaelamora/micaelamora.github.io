@@ -31,7 +31,7 @@ feature_row:
     alt: "Microfluidic Device made with resin printed mold"
     title: "Microfluidic Device"
     excerpt: "PDMS microfluidic device made in a resin 3D printed mold"
-  - image_path: /assets/img/picture of bike mount.png
+  - image_path: /assets/img/holder for phones.png
     alt: "Adaptable phone holder for bikes"
     title: "Bike Phone Holder"
     excerpt: "Adaptable phone holder for bikes "
