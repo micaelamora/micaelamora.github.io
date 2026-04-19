@@ -10,8 +10,8 @@ category: fabrication
 excerpt: "Head Post used to study neural activities in mice"
 
 header:
-  image: /assets/img/headset.png
-  teaser: /assets/img/headset.png
+  image: /assets/img/picture of bike mount.png
+  teaser: /assets/img/picture of bike mount.png
 
 gallery:
 
