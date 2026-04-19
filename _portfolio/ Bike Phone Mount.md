@@ -24,6 +24,10 @@ gallery:
   - url: /assets/img/square of ball bearing.png
     image_path: /assets/img/square of ball bearing.png
     alt: "Phone Holder"
+  - url: /assets/img/rendering view.png
+    image_path: /assets/img/rendering view.png
+    alt: "Phone Holder"
+    
 
 
 ---
