@@ -17,18 +17,16 @@ gallery:
 
   - url: /assets/img/picture of bike mount.png
     image_path: /assets/img/picture of bike mount.png
-    alt: "Phone Holder"
+    alt: "Picture of bike mount"
   - url: /assets/img/ball of ball bearing .png
     image_path: /assets/img/ball of ball bearing .png
-    alt: "Phone Holder"
+    alt: "Ball bearing"
   - url: /assets/img/squareofballbearing.png
     image_path: /assets/img/squareofballbearing.png
-    alt: "Phone Holder"
+    alt: "Square of Balle Bearing"
   - url: /assets/img/rendering view.png
     image_path: /assets/img/rendering view.png
-    alt: "Phone Holder"
-    
-
+    alt: "Rendering view"
 
 ---
 
