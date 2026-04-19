@@ -15,6 +15,11 @@ header:
 
 gallery:
 
+  - url: /assets/img/picture of bike mount.png
+    image_path: /assets/img/picture of bike mount.png
+    alt: "Phone Holder"
+
+
 ---
 
 <style>
