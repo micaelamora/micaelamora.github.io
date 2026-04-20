@@ -15,8 +15,8 @@ header:
 
 gallery:
 
-  - url: /assets/img/picture of bike mount.png
-    image_path: /assets/img/picture of bike mount.png
+  - url: /assets/img/bikemount.png
+    image_path: /assets/img/bikemount.png
     alt: "Picture of bike mount"
   - url: /assets/img/ball of ball bearing .png
     image_path: /assets/img/ball of ball bearing .png
