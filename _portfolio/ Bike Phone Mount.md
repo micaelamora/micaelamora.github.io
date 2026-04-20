@@ -10,8 +10,8 @@ category: fabrication
 excerpt: "Bike mount for phones"
 
 header:
-  image: /assets/img/picture of bike mount.png
-  teaser: /assets/img/picture of bike mount.png
+  image: /assets/img/bikemount.png
+  teaser: /assets/img/bikemount.png
 
 gallery:
 
