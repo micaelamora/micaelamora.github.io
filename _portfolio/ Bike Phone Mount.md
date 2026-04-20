@@ -21,8 +21,8 @@ gallery:
   - url: /assets/img/ball of ball bearing .png
     image_path: /assets/img/ball of ball bearing .png
     alt: "Ball bearing"
-  - url: /assets/img/squareofballbearing.png
-    image_path: /assets/img/squareofballbearing.png
+  - url: /assets/img/squareball.png
+    image_path: /assets/img/squareball.png
     alt: "Square of Balle Bearing"
   - url: /assets/img/rendering view.png
     image_path: /assets/img/rendering view.png
