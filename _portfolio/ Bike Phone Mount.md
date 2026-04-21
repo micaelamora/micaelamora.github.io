@@ -63,9 +63,9 @@ The design was developed by prioritizing secure gripping, tool-free operation, a
 
 The design prioritizes:
 
-Stability under vibration
-Ease of use without tools during normal operation
-Compatibility with a range of phone sizes
+  * Stability under vibration
+  * Ease of use without tools during normal operation
+  * Compatibility with a range of phone sizes
 
 # Detent Mechanism 
 The detent mechanism was implemented using a spring-loaded ball bearing system, consisting of a compression spring and a steel ball bearing housed within a 3D printed cavity.
