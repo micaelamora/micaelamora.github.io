@@ -27,6 +27,12 @@ gallery:
   - url: /assets/img/rendering view.png
     image_path: /assets/img/rendering view.png
     alt: "Rendering view"
+  - url: /assets/img/phonecase1.jpeg
+    image_path: /assets/img/phonecase1.jpeg
+    alt: "PhoneHolder 1"
+  - url: /assets/img/phonecase2.jpeg
+    image_path: /assets/img/phonecase2.jpeg
+    alt: "PhoneHolder 2"
   - url: /assets/img/phoneholder.gif
     image_path: /assets/img/phoneholder.gif
     alt: "Phone holder"
