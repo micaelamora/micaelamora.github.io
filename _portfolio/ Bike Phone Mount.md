@@ -27,6 +27,9 @@ gallery:
   - url: /assets/img/rendering view.png
     image_path: /assets/img/rendering view.png
     alt: "Rendering view"
+  - url: /assets/img/phoneholder.mp4
+    image_path: /assets/img/phoneholder.mp4
+    alt: "Pliers closing and opening"
 
 ---
 
