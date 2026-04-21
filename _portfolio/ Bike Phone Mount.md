@@ -67,24 +67,42 @@ Stability under vibration
 Ease of use without tools during normal operation
 Compatibility with a range of phone sizes
 
-• How did you implement the detent mechanism? Does it work well? 
+# Detent Mechanism 
+The detent mechanism was implemented using a spring-loaded ball bearing system, consisting of a compression spring and a steel ball bearing housed within a 3D printed cavity.
 
-• Did you have to change any dimensions to account for the 3D printing process? 
+The design works as follows:
 
-• What type of 3D printing did you use? Why? 
+A compression spring is placed inside a cylindrical pocket within the stationary component
+A ball bearing sits on top of the spring, partially protruding from the housing
+The rotating component contains predefined recesses (detent pockets) at 0° and 90°, corresponding to portrait and landscape orientations
+As the mount rotates, the ball is pushed upward by the spring and snaps into these recesses, creating a noticeable tactile “click”.
 
-▪ Brief Assembly/use instructions 
-▪ Which printing technology and why did you use for each part?  
-o Embedded Interactive CAD model 
+A set of raised features (detents) were placed on the rotating component
+Corresponding grooves/recesses were positioned at 0° and 90°
+As the holder rotates, the detent engages with these positions, producing a noticeable click, as required by the assignment
 
-▪ Real-life .GIF of the holder rotating between landscape and portrait  
-▪ Fusion Rendering of phone holder with phone on it.  
-▪ Cross-section view of internal rotation mechanism.  This can be a 
-screenshot of the design workspace with the section analysis tool.  
-▪ Individual images of each of the top-down components. This can be real
-life or Fusion renderings. 
+* Performance:
+The detent mechanism functions effectively, providing a distinct and repeatable engagement at both orientations. The spring force and recess depth were critical parameters; if too weak, the phone could rotate unintentionally, and if too strong, rotation becomes difficult. The final design achieves a balance between ease of rotation and secure positioning under typical riding vibrations.
 
-  
+# 3D printing Method
+All components were fabricated using Fused Deposition Modeling (FDM) with PLA filament.
+* Several design modifications were made to account for perfect fitting of the parts:
+
+  * Clearances of approximately 0.2–0.5 mm were added between mating parts
+  * Holes for screws were picked to be the diameter of the screw
+All parts were printed using FDM with PLA, but each part was oriented and designed differently based on its function:
+
+* Clamp: Printed to maximize strength along the layer direction to resist tightening forces
+* Rotating interface: Printed to preserve circular accuracy and smooth motion
+* Phone holder arms: Printed to balance strength and flexibility for gripping the phone
+* Small parts were placed in the most optimal position to reduce support material
+
+PLA was selected because:
+
+It is easy to print with minimal warping
+It provides good dimensional accuracy for mating parts
+It is sufficient for prototyping and functional testing
+
 {% include gallery caption="Gallery" %}
 
 # CAD Model 
