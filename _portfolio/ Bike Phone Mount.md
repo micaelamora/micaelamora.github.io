@@ -1,5 +1,5 @@
 ---
-title: "Bike Mount"
+title: "Phone Holder for Bikes"
 layout: single
 classes: wide
 author_profile: false
