@@ -39,12 +39,34 @@ gallery:
 }
 </style>
 
-Description of the Prototype
-▪ A description of top-down modeling and how it was leveraged in this assignment.  
-This bike-mounted phone holder was developed using a top-down modeling approach, which allows multiple components to be designed within a single file and edited simultaneously. This method ensures proper alignment, fit, and functional integration of all parts throughout the design process.
-The holder is designed for quick and convenient attachment of a phone without the need for additional tools during regular use. It accommodates a range of phone sizes and securely grips the device to withstand vibrations encountered while riding. Once mounted on the bike handlebars, the holder enables the phone to rotate and snap into both landscape and portrait orientations without requiring tools. Initial installation onto the handlebars may require hex (Allen) keys, but no tools are needed for everyday operation.
-▪ Rationale behind your design 
-The design included the 
+# Description of the Prototype
+This project was completed using a top-down modeling approach, where all components of the bike phone holder were designed within a single assembly file and referenced from shared geometry. The handlebars and phone were first created/imported as base components and used as the primary references to drive the design.
+
+From there, each component of the holder (clamp, rotating interface, and phone grip) was modeled in context, ensuring that all parts aligned correctly and maintained proper clearances. As-built joints were then used to define relationships between components.
+
+# This approach allowed for:
+
+* Consistent alignment between parts
+* Efficient iteration by modifying key parameters
+* Reduced assembly errors since all parts were designed relative to each other
+
+Additionally, parametric dimensions (such as phone width range and rotation clearances) were used so adjustments could be made quickly to accommodate tolerances or design changes.
+
+# Rationale behind the design
+The design was developed by prioritizing secure gripping, tool-free operation, and rotational functionality.
+
+* Key parts of the design included:
+
+  * A handlebar clamp sized to fit the provided 22.2 mm grip diameter
+  * A rotational interface to allow switching between portrait and landscape
+  * A flexible phone gripping mechanism to accommodate different phone sizes
+
+The design prioritizes:
+
+Stability under vibration
+Ease of use without tools during normal operation
+Compatibility with a range of phone sizes
+
 • How did you implement the detent mechanism? Does it work well? 
 
 • Did you have to change any dimensions to account for the 3D printing process? 
