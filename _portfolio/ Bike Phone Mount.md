@@ -27,8 +27,8 @@ gallery:
   - url: /assets/img/rendering view.png
     image_path: /assets/img/rendering view.png
     alt: "Rendering view"
-  - url: /assets/img/phoneholder.mp4
-    image_path: /assets/img/phoneholder.mp4
+  - url: /assets/img/phoneholder.gif
+    image_path: /assets/img/phoneholder.gif
     alt: "Phone holder"
 
 ---
