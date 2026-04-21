@@ -57,9 +57,9 @@ The design was developed by prioritizing secure gripping, tool-free operation, a
 
 * Key parts of the design included:
 
-  * A handlebar clamp sized to fit the provided 22.2 mm grip diameter
+  * A handlebar clamp sized to fit the provided 25.4 mm grip diameter
   * A rotational interface to allow switching between portrait and landscape
-  * A flexible phone gripping mechanism to accommodate different phone sizes
+  * A adaptable phone gripping mechanism to accommodate different phone sizes
 
 The design prioritizes:
 
