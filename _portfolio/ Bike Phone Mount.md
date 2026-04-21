@@ -29,7 +29,7 @@ gallery:
     alt: "Rendering view"
   - url: /assets/img/phoneholder.mp4
     image_path: /assets/img/phoneholder.mp4
-    alt: "Pliers closing and opening"
+    alt: "Phone holder"
 
 ---
 
