@@ -42,7 +42,7 @@ feature_row:
   - image_path: /assets/img/paddleboard.png
     alt: "Pickleball Paddle"
     title: "Pickleball Paddle"
-    excerpt: "PLA printed Pickleball Paddle"
+    excerpt: "3D Printed Pickleball Paddle"
 
 
     
