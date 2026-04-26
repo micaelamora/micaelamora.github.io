@@ -1,5 +1,5 @@
 ---
-title: "Phone Holder for Bikes"
+title: "Skate Mount"
 layout: single
 classes: wide
 author_profile: false
@@ -7,7 +7,7 @@ sidebar:
   nav: false
 
 category: fabrication
-excerpt: "Bike mount for phones"
+excerpt: "Skate Mount"
 
 header:
   image: /assets/img/bikemount.png
@@ -48,67 +48,38 @@ gallery:
 }
 </style>
 
-# Description of the Prototype
-This project was completed using a top-down modeling approach, where all components of the bike phone holder were designed within a single assembly file and referenced from shared geometry. The handlebars and phone were first created/imported as base components and used as the primary references to drive the design.
+For both ALSi10Mg and 17-4 PH solutions include: 
+o An embedded Fusion 360 model of: 
+▪ ALSi10Mg outcome 
+▪ Nylon 12 outcome 
+o A rendering of the completed longboard assembly with the generative design 
+trucks. 
+• Real life images of the pSLS printed model alone and attached to the longboard deck.  
+o Due to pSLS being a batch process, I have to print multiple trucks at a time. 
+Please see the BrightSpace assignment details for when you must submit the 
+CAD model to have it printed by the end of the semester.  
+• Two GIFs of the truck installed on the deck: 
+o Turning – showing there is enough clearance around the pivot point for the truck 
+to turn. 
+o Motor rotating the pulley, belt, and wheels (you can hand turn it)  
+• Table of the forces applied, including columns for 
+o Name of force 
+4 
 
-From there, each component of the holder (clamp, rotating interface, and phone grip) was modeled in context, ensuring that all parts aligned correctly and maintained proper clearances. As-built joints were then used to define relationships between components.
-
-# This approach allowed for:
-
-* Consistent alignment between parts
-* Efficient iteration by modifying key parameters
-* Reduced assembly errors since all parts were designed relative to each other
-
-Additionally, parametric dimensions (such as phone width range and rotation clearances) were used so adjustments could be made quickly to accommodate tolerances or design changes.
-
-# Rationale behind the design
-The design was developed by prioritizing secure gripping, tool-free operation, and rotational functionality.
-
-* Key parts of the design included:
-
-  * A handlebar clamp sized to fit the provided 25.4 mm grip diameter
-  * A rotational interface to allow switching between portrait and landscape
-  * A adaptable phone gripping mechanism to accommodate different phone sizes
-
-The design prioritizes:
-
-  * Stability under vibration
-  * Ease of use without tools during normal operation
-  * Compatibility with a range of phone sizes
-
-# Detent Mechanism 
-The detent mechanism was implemented using a spring-loaded ball bearing system, consisting of a compression spring and a steel ball bearing housed within a 3D printed cavity.
-
-* The design works as follows:
-
-  * A compression spring is placed inside a cylindrical pocket within the stationary component
-  * A ball bearing sits on top of the spring, partially protruding from the housing
-  * The rotating component contains predefined recesses (detent pockets) at 0° and 90°, corresponding to portrait and landscape orientations
-  * As the mount rotates, the ball is pushed upward by the spring and snaps into these recesses, creating a noticeable “click”
-
-
-* Performance:
-The detent mechanism functions effectively, providing a distinct and repeatable engagement at both orientations. The spring force and recess depth were critical parameters; if too weak, the phone could rotate unintentionally, and if too strong, rotation becomes difficult. The final design achieves a balance between ease of rotation and secure positioning under typical riding vibrations.
-
-# 3D printing Method
-All components were fabricated using FFF with PLA filament.
-* Several design modifications and an assembly were made to account for perfect fitting of the parts:
-
-  * Clearances of approximately 0.2–0.5 mm were added between mating parts
-  * Holes for screws were picked to be the diameter of the screw
-
-* Each part was oriented and designed differently based on its function:
-  * Clamp: Printed to maximize strength along the layer direction to resist tightening forces
-  * Rotating interface: Printed to preserve circular accuracy and smooth motion
-  * Phone holder arms: Printed to balance strength and flexibility for gripping the phone
-  * Small parts were placed in the most optimal position to reduce support material
-
-PLA was selected because:
-
-It is easy to print with minimal warping
-It provides good dimensional accuracy for mating parts
-It is sufficient for prototyping and functional testing
-
+o Magnitude 
+o Location of where it was applied 
+o Short rational   
+• A discussion (750 words) on: 
+o The unique pairing of powder bed fusion and generative design and their 
+applications in either aerospace or automotive industries. Please research a 
+specific commercial example (not on the slides), where generative design has 
+been used to reduce the number of components in an assembly. Citation should 
+be included as a hyperlink. 
+o The importance of applying the proper load cases and how to improve this 
+process. How did you determine which forces to apply to the model?  
+o A comparison between the ALSi10Mg and 17-4 PH outcomes.  
+o Critique generative design. How useful is it really? What are the drawbacks? 
+What applications would generative design be most useful in?
 {% include gallery caption="Gallery" %}
 
 # CAD Model 
