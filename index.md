@@ -39,7 +39,7 @@ feature_row:
     alt: "Truck Hanger + Motor Mount "
     title: "Skate Mount"
     excerpt: "Truck Hanger + Motor Mount"
-  - image_path: /assets/img/paddleboard.png
+  - image_path: /assets/img/smallpickleball.png
     alt: "Pickleball Paddle"
     title: "Pickleball Paddle"
     excerpt: "3D Printed Pickleball Paddle"
