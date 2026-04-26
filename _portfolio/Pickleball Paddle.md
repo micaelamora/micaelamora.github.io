@@ -10,7 +10,7 @@ category: fabrication
 excerpt: "3D Printed Pickleball Paddle"
 
 header:
-  image: /assets/img/smallpickleball.png
+  image: /assets/img/paddleboard.png
   teaser: /assets/img/paddleboard.png
 
 gallery:
@@ -18,24 +18,6 @@ gallery:
   - url: /assets/img/bikemount.png
     image_path: /assets/img/bikemount.png
     alt: "Picture of bike mount"
-  - url: /assets/img/ball of ball bearing .png
-    image_path: /assets/img/ball of ball bearing .png
-    alt: "Ball bearing"
-  - url: /assets/img/squareball.png
-    image_path: /assets/img/squareball.png
-    alt: "Square of Balle Bearing"
-  - url: /assets/img/rendering view.png
-    image_path: /assets/img/rendering view.png
-    alt: "Rendering view"
-  - url: /assets/img/phonecase1.jpeg
-    image_path: /assets/img/phonecase1.jpeg
-    alt: "PhoneHolder 1"
-  - url: /assets/img/phonecase2.jpeg
-    image_path: /assets/img/phonecase2.jpeg
-    alt: "PhoneHolder 2"
-  - url: /assets/img/phoneholder.gif
-    image_path: /assets/img/phoneholder.gif
-    alt: "Phone holder"
 
 ---
 
@@ -80,7 +62,7 @@ All components were fabricated using FFF with PLA filament.
   * Phone holder arms: Printed to balance strength and flexibility for gripping the phone
   * Small parts were placed in the most optimal position to reduce support material
 
-PLA was selected because:
+ABS was selected because:
 
 It is easy to print with minimal warping
 It provides good dimensional accuracy for mating parts
