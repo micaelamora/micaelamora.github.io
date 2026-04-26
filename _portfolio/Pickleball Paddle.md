@@ -11,7 +11,7 @@ excerpt: "3D Printed Pickleball Paddle"
 
 header:
   image: /assets/img/smallpickleball.png
-  teaser: /assets/img/smallpickleball.png
+  teaser: /assets/img/paddleboard.png
 
 gallery:
 
