@@ -10,8 +10,8 @@ category: fabrication
 excerpt: "3D Printed Pickleball Paddle"
 
 header:
-  image: /assets/img/bikemount.png
-  teaser: /assets/img/bikemount.png
+  image: /assets/img/paddleboard.png
+  teaser: /assets/img/paddleboard.png
 
 gallery:
 
