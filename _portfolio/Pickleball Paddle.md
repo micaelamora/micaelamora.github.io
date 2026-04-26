@@ -33,24 +33,20 @@ gallery:
 # Description of the Prototype
 This project focuses on the design, prototyping, and optimization of a fully 3D printed pickleball paddle that complies with official USA Pickleball standards. The paddle was designed for functionality, durability, and performance, while leveraging multi-material printing and modular design principles.
 
-# Paddle Design & Rule COmpliance:
+# Paddle Design & Rule Compliance:
 
 The paddle was designed to meet the 2026 USA Pickleball Official Rulebook specifications, including size constraints (maximum combined length + width of 24 inches and length ≤ 17 inches) and surface requirements. The face geometry was modeled to maintain a smooth, rigid, and non-compressible surface, avoiding textures that could introduce excessive spin or violate roughness limits.
 
 Due to printer size constraints (300 × 300 mm build plate), the paddle was split into two primary components: the paddle face and the handle. These were assembled using M4 heat-set inserts and bolts, ensuring strong mechanical fastening while allowing disassembly if needed. The final structure was tested for durability under gameplay conditions, ensuring it could withstand repeated impacts while maintaining structural integrity.
 
-# Grip Enhancement & Edge Protection
-To improve ergonomics and usability, a TPU (thermoplastic polyurethane) element was integrated into the handle. This flexible material enhances grip comfort, reduces slippage from sweat, and improves vibration damping during ball impact. The TPU section was co-designed with the rigid handle to ensure proper bonding and structural support during play.
-
-Additionally, an interchangeable edge guard was developed to protect the paddle face from damage during ground contact. This modular component allows for easy replacement without reprinting the entire paddle, extending the product’s lifespan. The edge guard design balances protection with minimal added weight, ensuring it does not negatively affect swing dynamics. This modular approach reflects real-world product design practices focused on maintainability and user customization.
 
 # Weight & Mass Balance Optimization 
-The paddle was optimized for a midweight configuration (7.3–8.3 oz), providing a balance between control and power . Weight reduction strategies included internal infill optimization and selective material distribution, while maintaining sufficient stiffness in the paddle face.
+The paddle was optimized for a midweight configuration (17 oz), providing a balance between control and power . Weight reduction strategies included internal infill optimization and selective material distribution, while maintaining sufficient stiffness in the paddle face.
 
 Mass balance was a key design consideration, as it directly influences swing speed and control. The center of mass was adjusted by redistributing material between the head and handle, allowing for a slightly head-light configuration to improve maneuverability and reaction time. Iterative prototyping and testing were used to refine this balance, ensuring the paddle felt responsive without sacrificing hitting power. This process highlights the importance of integrating mechanical design with user-specific performance goals in sports equipment engineering.
 
 # 3D printing Method
-All components were fabricated using FFF with PLA filament.
+All components were fabricated using FFF with ABS filament.
 * Several design modifications and an assembly were made to account for perfect fitting of the parts:
 
   * Clearances of approximately 0.2–0.5 mm were added between mating parts
