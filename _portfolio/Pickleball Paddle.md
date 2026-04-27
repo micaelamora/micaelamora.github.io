@@ -37,7 +37,7 @@ This project focuses on the design, prototyping, and optimization of a fully 3D 
 
 The paddle was designed to meet the 2026 USA Pickleball Official Rulebook specifications, including size constraints (maximum combined length + width of 24 inches and length ≤ 17 inches) and surface requirements. The face geometry was modeled to maintain a smooth, rigid, and non-compressible surface, avoiding textures that could introduce excessive spin or violate roughness limits.
 
-Due to printer size constraints (300 × 300 mm build plate), the paddle was split into two primary components: the paddle face and the handle. These were assembled using M4 heat-set inserts and bolts, ensuring strong mechanical fastening while allowing disassembly if needed. The final structure was tested for durability under gameplay conditions, ensuring it could withstand repeated impacts while maintaining structural integrity.
+Due to printer size constraints of the build plate, the paddle was split into two primary components: the paddle face and the handle. These were assembled using M4 heat-set inserts and bolts, ensuring strong mechanical fastening while allowing disassembly if needed. The final structure was tested for durability under gameplay conditions, ensuring it could withstand repeated impacts while maintaining structural integrity.
 
 
 # Weight & Mass Balance Optimization 
