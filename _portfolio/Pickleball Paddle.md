@@ -17,7 +17,10 @@ gallery:
 
   - url: /assets/img/bikemount.png
     image_path: /assets/img/bikemount.png
-    alt: "Picture of bike mount"
+    alt: "Pickleball Paddle"
+  - url: /assets/img/topview.jpeg
+    image_path: /assets/img/topview.jpeg
+    alt: "Pickleball Paddle"
 
 ---
 
