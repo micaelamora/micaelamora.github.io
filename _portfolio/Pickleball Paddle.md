@@ -31,7 +31,7 @@ gallery:
 </style>
 
 # Description of the Prototype
-This project focuses on the design, prototyping, and optimization of a fully 3D printed pickleball paddle that complies with official USA Pickleball standards. The paddle was designed for functionality, durability, and performance, while leveraging multi-material printing and modular design principles.
+This project focuses on the design, prototyping, and optimization of a fully 3D printed pickleball paddle that complies with official USA Pickleball standards. The paddle was designed for functionality, durability, and performance, while leveraging modular design principles.
 
 # Paddle Design & Rule Compliance:
 
