@@ -46,7 +46,7 @@ feature_row:
   - image_path: /assets/img/SkateBoardMountrenderpic.png
     alt: "SkateBoard Mount"
     title: "SkateBoard Mount"
-    excerpt: "Generated Desing of SkateBoard Mount"
+    excerpt: "Generative Design SLS Truck Hanger + Motor Mount "
 
 
 
