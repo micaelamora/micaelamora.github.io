@@ -14,7 +14,6 @@ header:
     teaser: /assets/img/AssemblySkate.png
 
 gallery:
-
     - url: /assets/img/SkateMountRender.png
       image_path: /assets/img/SkateMountRender.png
       alt: "Picture of Skate Mount"
