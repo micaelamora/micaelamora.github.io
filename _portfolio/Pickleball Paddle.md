@@ -20,9 +20,14 @@ gallery:
   - url: /assets/img/picklebalmass.png
     image_path: /assets/img/picklebalmass.png
     alt: "Pickleball Paddle weight of Face"
-  - url: /assets/img/paddlefaceweight.png
-    image_path: /assets/img/paddlefaceweight.png
-    alt: "Pickleball Paddle weight of Face"
+  - url: /assets/img/bolts.jpeg
+    image_path: /assets/img/bolts.jpeg
+    alt: "Heat Screws"
+  - url: /assets/img/sideview.jpeg
+    image_path: /assets/img/sideview.jpeg
+    alt: "Side View of Paddle"
+
+    
 
 
 ---
