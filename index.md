@@ -43,7 +43,7 @@ feature_row:
     alt: "Pickleball Paddle"
     title: "Pickleball Paddle"
     excerpt: "3D Printed Pickleball Paddle"
-  - image_path: /assets/img/SkateMountRender.png
+  - image_path: /assets/img/SkateBoardMountrenderpic.png
     alt: "SkateBoard Mount"
     title: "SkateBoard Mount"
     excerpt: "Generated Desing of SkateBoard Mount"
