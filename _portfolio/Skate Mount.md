@@ -10,8 +10,8 @@ category: fabrication
 excerpt: "Skate Mount"
 
 header:
-image: /assets/img/AssemblySkate.png
-teaser: /assets/img/AssemblySkate.png
+    image: /assets/img/AssemblySkate.png
+    teaser: /assets/img/AssemblySkate.png
 
 gallery:
 
