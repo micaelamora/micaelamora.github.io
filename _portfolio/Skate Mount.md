@@ -10,14 +10,14 @@ category: fabrication
 excerpt: "Skate Mount"
 
 header:
-  image: /assets/img/
-  teaser: /assets/img/
+  image: /assets/img/AssemblySkate.png
+  teaser: /assets/img/AssemblySkate.png
 
 Render Gallery:
 
-  - url: /assets/img/bikemount.png
-    image_path: /assets/img/bikemount.png
-    alt: "Picture of bike mount"
+  - url: /assets/img/SkateMountRender.png
+    image_path: /assets/img/SkateMountRender.png
+    alt: "Picture of Skate Mount"
   - 
 
 
