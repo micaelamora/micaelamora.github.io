@@ -7,7 +7,7 @@ sidebar:
 nav: false
 
 category: fabrication
-excerpt: "Generated Design of SkateBoard Mount"
+excerpt: "Generative Design SLS Truck Hanger + Motor Mount"
 
 header:
     image: /assets/img/AssemblySkate.png
