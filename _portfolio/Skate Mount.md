@@ -1,27 +1,22 @@
----
 title: "Skate Mount"
 layout: single
 classes: wide
 author_profile: false
 sidebar:
-  nav: false
+nav: false
 
 category: fabrication
 excerpt: "Skate Mount"
 
 header:
-  image: /assets/img/AssemblySkate.png
-  teaser: /assets/img/AssemblySkate.png
+image: /assets/img/AssemblySkate.png
+teaser: /assets/img/AssemblySkate.png
 
-Render Gallery:
+gallery:
 
-  - url: /assets/img/SkateMountRender.png
-    image_path: /assets/img/SkateMountRender.png
-    alt: "Picture of Skate Mount"
-  - 
-
-
----
+url: /assets/img/SkateMountRender.png
+image_path: /assets/img/SkateMountRender.png
+alt: "Picture of Skate Mount"
 
 <style>
 .gallery img {
