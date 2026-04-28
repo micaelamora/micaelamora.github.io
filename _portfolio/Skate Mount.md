@@ -1,3 +1,4 @@
+---
 title: "Skate Mount"
 layout: single
 classes: wide
@@ -17,6 +18,8 @@ gallery:
 url: /assets/img/SkateMountRender.png
 image_path: /assets/img/SkateMountRender.png
 alt: "Picture of Skate Mount"
+
+---
 
 <style>
 .gallery img {
