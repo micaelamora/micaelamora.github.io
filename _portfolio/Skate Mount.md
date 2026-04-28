@@ -42,6 +42,8 @@ The comparison between the AlSi10Mg and 17-4 PH stainless steel outcomes illustr
 
 # Drawbacks
 While generative design is a powerful tool, it is not without limitations. One major drawback is its dependence on accurate input conditions. If loads or constraints are poorly defined, the resulting design may be unrealistic or unsafe. Additionally, generative design often produces highly organic geometries that can be difficult to interpret, modify, or integrate with existing components. These designs frequently require post-processing to ensure proper clearances, manufacturability, and assembly functionality. Computational cost is another challenge, as running multiple design iterations can be time-consuming. Furthermore, most generative design tools rely on simplified static analysis and may not account for fatigue, wear, or long-term performance.
+
+# Application of Generative Design
 Despite these drawbacks, generative design is highly useful in applications where performance optimization and weight reduction are critical. Aerospace, automotive, and robotics industries benefit the most, particularly in low-volume, high-performance components where additive manufacturing is feasible. In these contexts, generative design enables engineers to discover efficient load paths and create structures that would be nearly impossible to design manually.
 
 # Conclusion
