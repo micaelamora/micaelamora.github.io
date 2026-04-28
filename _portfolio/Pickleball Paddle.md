@@ -14,13 +14,16 @@ header:
   teaser: /assets/img/Paddleboardhorizontal.png
 
 gallery:
-
-  - url: /assets/img/bikemount.png
-    image_path: /assets/img/bikemount.png
-    alt: "Pickleball Paddle"
   - url: /assets/img/topview.jpeg
     image_path: /assets/img/topview.jpeg
     alt: "Pickleball Paddle"
+  - url: /assets/img/picklebalmass.png
+    image_path: /assets/img/picklebalmass.png
+    alt: "Pickleball Paddle weight of Face"
+  - url: /assets/img/paddlefaceweight.png
+    image_path: /assets/img/paddlefaceweight.png
+    alt: "Pickleball Paddle weight of Face"
+
 
 ---
 
