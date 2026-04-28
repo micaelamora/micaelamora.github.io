@@ -44,5 +44,5 @@ gallery:
 
 # CAD Model 
 <iframe src="https://a360.co/48mwE8c" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
-<iframe src="https://a360.co/48uEZ9N" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+<iframe src="https://a360.co/4vXb3wZ" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
 <iframe src="https://a360.co/42BBoDo" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
