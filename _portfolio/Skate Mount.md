@@ -7,7 +7,7 @@ sidebar:
 nav: false
 
 category: fabrication
-excerpt: "Skate Mount"
+excerpt: "Generated Design of SkateBoard Mount"
 
 header:
     image: /assets/img/AssemblySkate.png
