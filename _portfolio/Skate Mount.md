@@ -38,6 +38,8 @@ A relevant commercial example is the redesign of an aeronautical tail landing ge
 # Loads in Generative Design
 Generative Design depends heavily on the accurate definition of load cases. In this skateboard truck hanger project, load cases were selected based on the physical interactions between the rider, the ground, and the motor system. A vertical load was applied at the axle to represent the rider’s weight, accounting for both static and dynamic effects during riding. Lateral loads were included to simulate turning and carving, where leaning generates sideways forces. A tangential force was applied at the motor mount to represent belt-driven torque from the brushless DC motor, carefully aligned with the belt direction to reflect real torque transmission. Additionally, a longitudinal force was applied to represent braking, and an impact load was applied at one axle end to simulate uneven terrain or sudden contact with obstacles.
 These forces were determined using simplified physical reasoning, breaking down real-world conditions into dominant force components. While this approach captures the main structural behavior, it also highlights a limitation of generative design: the results are only as accurate as the assumptions made. Improvements to this process could include dynamic simulations, experimental measurements, or more advanced modeling of contact and time-dependent forces. However, for a generative design workflow, these simplified load cases provide a practical balance between realism and computational efficiency.
+
+# Contrast between AlSi10Mg and 17-4 PH stainless steel:
 The comparison between the AlSi10Mg and 17-4 PH stainless steel outcomes illustrates how material properties significantly influence optimized geometry. AlSi10Mg, a lightweight aluminum alloy commonly used in additive manufacturing, resulted in a design with thicker members and more distributed material to maintain strength and stiffness. In contrast, the 17-4 PH stainless steel design featured thinner, more refined structures due to its higher strength and stiffness. However, despite this structural efficiency, the stainless steel design had a higher overall mass because of its greater density. This demonstrates an important trade-off in generative design: stronger materials allow for more compact geometries, but do not necessarily produce lighter components. For this skateboard application, where weight plays a critical role in performance and maneuverability, the aluminum design provides a better balance between strength and mass.
 
 # Drawbacks
@@ -63,7 +65,14 @@ The integration of generative design with powder bed fusion enables engineers to
 
 {% include gallery caption="Gallery" %}
 
-# CAD Model 
+# Assembly of fInal Nylon Model
 <iframe src="https://a360.co/48mwE8c" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+
+# Generative Design with 17-4 PH
 <iframe src="https://a360.co/4vXb3wZ" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+
+# Generative Design with ALSi10Mg
 <iframe src="https://a360.co/4w2SDeA" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
+
+# Edited final Design with Nylon 12
+<iframe src="https://a360.co/48uEZ9N" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
