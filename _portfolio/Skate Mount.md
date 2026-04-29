@@ -53,7 +53,7 @@ While generative design is a powerful tool, it is not without limitations. One m
 Despite these drawbacks, generative design is highly useful in applications where performance optimization and weight reduction are critical. Aerospace, automotive, and robotics industries benefit the most, particularly in low-volume, high-performance components where additive manufacturing is feasible. In these contexts, generative design enables engineers to discover efficient load paths and create structures that would be nearly impossible to design manually.
 In this project, generative design is particularly useful for integrating the motor mount and hanger into a single lightweight structure, reducing part count and improving load transfer efficiency.
 
-# Conclusion
+<h2>Key Takeaways:</h2>
 The integration of generative design with powder bed fusion enables engineers to move beyond traditional design limitations, achieving lightweight, consolidated, and high-performance components. However, its effectiveness depends on careful setup, accurate load definition, and thoughtful interpretation of results. As demonstrated in both the aerospace example and the skateboard truck design, generative design is a powerful tool but one that still relies heavily on engineering judgment to produce practical and reliable solutions.
 
 
