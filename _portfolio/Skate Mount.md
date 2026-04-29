@@ -59,7 +59,7 @@ The integration of generative design with powder bed fusion enables engineers to
 
 # Forces
 
-| Name of Forces                    |   Magnitude    |     Location    |           Short Rational                        |  
+| Name of Forces                    |   Magnitude    |     Location    |           Rationale                        |  
 |-----------------------------------|----------------|-----------------|-------------------------------------------------|
 | Vertical Force                    |      800 N    |      AXLE       |    Represents rider load with safety margin     |    
 | Lateral Force                     |       300 N    |     AXLE        |        Simulates turning/carving                |   
@@ -70,7 +70,7 @@ The integration of generative design with powder bed fusion enables engineers to
 
 {% include gallery caption="Gallery" %}
 
-# Assembly of final Nylon Model
+# Assembly with Nylon Model
 <iframe src="https://a360.co/48mwE8c" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"> </iframe>
 
 # Generative Design with 17-4 PH
