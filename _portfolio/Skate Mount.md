@@ -60,9 +60,9 @@ The integration of generative design with powder bed fusion enables engineers to
 
 | Name of Forces                    |   Magnitude    |     Location    |           Short Rational                        |  
 |-----------------------------------|----------------|-----------------|-------------------------------------------------|
-| Vertical Force                    |      1000 N    |      AXLE       |    Represents rider load with safety margin     |    
+| Vertical Force                    |      1500 N    |      AXLE       |    Represents rider load with safety margin     |    
 | Lateral Force                     |       400 N    |     AXLE        |        Simulates turning/carving                |   
-| Motor Force                       |       400 N    |   Motor mount   |    Derived from 8 Nm torque                     |  
+| Motor Force                       |       40 N    |   Motor mount   |    Derived from 8 Nm torque                     |  
 | Braking Force                     |       300 N    |       Axle      |   Simulates deceleration                        |  
 | Impact Load                       |       35 N     |  One Axle  end  |      Simulates bump/landing                     |  
 
