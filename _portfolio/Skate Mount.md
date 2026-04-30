@@ -17,10 +17,22 @@ gallery:
     - url: /assets/img/SkateBoardMountrenderpic.png
       image_path: /assets/img/SkateBoardMountrenderpic.png
       alt: "Picture of Skate Mount"
-    - url: /assets/img/SkateBoardMountrenderpic.png
-      image_path: /assets/img/SkateBoardMountrenderpic.png
-      alt: "Picture of Skate Mount"            
-
+    - url: /assets/img/Skatepic1.jpeg
+      image_path: /assets/img/Skatepic1.jpeg
+      alt: "Picture of Skate Mount1"          
+    - url: /assets/img/Skatepic2.jpeg
+      image_path: /assets/img/Skatepic2.jpeg
+      alt: "Picture of Skate Mount2"   
+    - url: /assets/img/Skate3.jpeg
+      image_path: /assets/img/Skate3.jpeg
+      alt: "Picture of Skate Mount3"   
+    - url: /assets/img/Skate4.jpeg
+      image_path: /assets/img/Skate4.jpeg
+      alt: "Picture of Skate Mount4"       
+    - url: /assets/img/Skate5.jpeg
+      image_path: /assets/img/Skate5.jpeg
+      alt: "Picture of Skate Mount5" 
+      
 ---
 
 <style>
