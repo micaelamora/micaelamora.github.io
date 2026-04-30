@@ -26,9 +26,12 @@ gallery:
     - url: /assets/img/Gif1.skate.gif
       image_path: /assets/img/Gif1.skate.gif
       alt: "GIF1" 
-    - url: /assets/img/GIF2.SKATE.gif
-      image_path: /assets/img/GIF2.SKATE.gif
-      alt: "GIF2" 
+    - url: /assets/img/GIF4.SKATE.gif
+      image_path: /assets/img/GIF4.SKATE.gif
+      alt: "GIF4.SKATE.gif" 
+    - url: /assets/img/GIF3.SKATE.gif
+      image_path: /assets/img/GIF3.SKATE.gif
+      alt: "GIF3.SKATE.gif"    
     - url: /assets/img/NEWVIEWSKATE.gif
       image_path: /assets/img/NEWVIEWSKATE.gif
       alt: "GIF2" 
