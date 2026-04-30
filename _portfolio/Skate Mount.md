@@ -17,34 +17,24 @@ gallery:
     - url: /assets/img/SkateBoardMountrenderpic.png
       image_path: /assets/img/SkateBoardMountrenderpic.png
       alt: "Picture of Skate Mount"
+    - url: /assets/img/PSLS_MODEL_ALONE.jpeg
+      image_path: /assets/img/PSLS_MODEL_ALONE.jpeg
+      alt: "Picture of Skate Mount1"   
     - url: /assets/img/Skatepic1.jpeg
       image_path: /assets/img/Skatepic1.jpeg
       alt: "Picture of Skate Mount1"          
-    - url: /assets/img/Skatepic2.jpeg
-      image_path: /assets/img/Skatepic2.jpeg
-      alt: "Picture of Skate Mount2"   
-    - url: /assets/img/Skate3.jpeg
-      image_path: /assets/img/Skate3.jpeg
-      alt: "Picture of Skate Mount3"   
-    - url: /assets/img/Skate4.jpeg
-      image_path: /assets/img/Skate4.jpeg
-      alt: "Picture of Skate Mount4"       
-    - url: /assets/img/Skate5.jpeg
-      image_path: /assets/img/Skate5.jpeg
-      alt: "Picture of Skate Mount5" 
     - url: /assets/img/Gif1.skate.gif
       image_path: /assets/img/Gif1.skate.gif
       alt: "GIF1" 
     - url: /assets/img/GIF2.SKATE.gif
       image_path: /assets/img/GIF2.SKATE.gif
       alt: "GIF2" 
-    - url: /assets/img/GIF3.SKATE.gif
-      image_path: /assets/img/GIF3.SKATE.gif
-      alt: "GIF3" 
-    - url: /assets/img/GIF4.SKATE.gif
-      image_path: /assets/img/GIF4.SKATE.gif
-      alt: "GIF4" 
+    - url: /assets/img/NEWVIEWSKATE.gif
+      image_path: /assets/img/NEWVIEWSKATE.gif
+      alt: "GIF2" 
+    
       
+ 
      
       
 ---
