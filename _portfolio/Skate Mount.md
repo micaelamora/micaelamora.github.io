@@ -32,6 +32,20 @@ gallery:
     - url: /assets/img/Skate5.jpeg
       image_path: /assets/img/Skate5.jpeg
       alt: "Picture of Skate Mount5" 
+    - url: /assets/img/Gif1.skate.gif
+      image_path: /assets/img/Gif1.skate.gif
+      alt: "GIF1" 
+    - url: /assets/img/GIF2.SKATE.gif
+      image_path: /assets/img/GIF2.SKATE.gif
+      alt: "GIF2" 
+    - url: /assets/img/GIF3.SKATE.gif
+      image_path: /assets/img/GIF3.SKATE.gif
+      alt: "GIF3" 
+    - url: /assets/img/GIF4.SKATE.gif
+      image_path: /assets/img/GIF4.SKATE.gif
+      alt: "GIF4" 
+      
+     
       
 ---
 
