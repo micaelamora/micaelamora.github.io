@@ -17,6 +17,9 @@ gallery:
     - url: /assets/img/SkateBoardMountrenderpic.png
       image_path: /assets/img/SkateBoardMountrenderpic.png
       alt: "Picture of Skate Mount"
+    - url: /assets/img/SkateBoardMountrenderpic.png
+      image_path: /assets/img/SkateBoardMountrenderpic.png
+      alt: "Picture of Skate Mount"            
 
 ---
 
