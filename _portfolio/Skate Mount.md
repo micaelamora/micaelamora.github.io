@@ -17,8 +17,8 @@ gallery:
     - url: /assets/img/SkateBoardMountrenderpic.png
       image_path: /assets/img/SkateBoardMountrenderpic.png
       alt: "Picture of Skate Mount"
-    - url: /assets/img/PSLS MODEL ALONE.jpeg
-      image_path: /assets/img/PSLS MODEL ALONE.jpeg
+    - url: /assets/img/PSLSMODEL.jpeg
+      image_path: /assets/img/PSLSMODEL.jpeg
       alt: "Picture of Skate Mount1"   
     - url: /assets/img/Skatepic1.jpeg
       image_path: /assets/img/Skatepic1.jpeg
