@@ -20,18 +20,15 @@ gallery:
     - url: /assets/img/PSLSMODEL.jpeg
       image_path: /assets/img/PSLSMODEL.jpeg
       alt: "Picture of Skate Mount1"   
-    - url: /assets/img/Skatepic1.jpeg
-      image_path: /assets/img/Skatepic1.jpeg
+    - url: /assets/img/Skatepic2NEW.jpeg
+      image_path: /assets/img/Skatepic2NEW.jpeg
       alt: "Picture of Skate Mount1"          
     - url: /assets/img/Gif1.skate.gif
       image_path: /assets/img/Gif1.skate.gif
       alt: "GIF1" 
     - url: /assets/img/GIF4.SKATE.gif
       image_path: /assets/img/GIF4.SKATE.gif
-      alt: "GIF4.SKATE.gif" 
-    - url: /assets/img/GIF3.SKATE.gif
-      image_path: /assets/img/GIF3.SKATE.gif
-      alt: "GIF3.SKATE.gif"    
+      alt: "GIF4.SKATE.gif"     
     - url: /assets/img/NEWVIEWSKATE.gif
       image_path: /assets/img/NEWVIEWSKATE.gif
       alt: "GIF2" 
