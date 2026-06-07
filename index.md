@@ -35,10 +35,6 @@ feature_row:
     alt: "Adaptable phone holder for bikes"
     title: "Bike Phone Holder"
     excerpt: "Adaptable phone holder for bikes "
-  - image_path: /assets/img/holder for phones.png
-    alt: "Truck Hanger + Motor Mount "
-    title: "Skate Mount"
-    excerpt: "Truck Hanger + Motor Mount"
   - image_path: /assets/img/Paddleboardhorizontal.png
     alt: "Pickleball Paddle"
     title: "Pickleball Paddle"
