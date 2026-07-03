@@ -1,5 +1,5 @@
 ---
-title: "Phone Holder for Bikes"
+title: "Pt/ITO stack for neural probes"
 layout: single
 classes: wide
 author_profile: false
@@ -7,7 +7,7 @@ sidebar:
   nav: false
 
 category: personal
-excerpt: "Bike mount for phones"
+excerpt: "Pt-ITO stack for neural probes"
 
 header:
   image: /assets/img/bikemount.png
