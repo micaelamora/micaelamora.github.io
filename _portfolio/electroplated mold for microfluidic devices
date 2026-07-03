@@ -15,8 +15,8 @@ header:
 
 gallery:
 
-  - url: /assets/img/setup for electroplating.jpeg
-    image_path: /assets/img/setup for electroplating.jpeg
+  - url: /assets/img/setupforelectroplating.jpeg
+    image_path: /assets/img/setupforelectroplating.jpeg
     alt: "Setup before etching the mold"
 
 
