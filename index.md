@@ -19,6 +19,10 @@ feature_row:
     alt: "electroplated mold for microfluidic devices"
     title: "electroplated mold for microfluidic devices"
     excerpt: "electroplated mold for microfluidic devices"
+  - image_path: /assets/img/SkateBoardMountrenderpic.png
+    alt: "Pt/ITO probes for neurophysiology"
+    title: "Pt/ITO probes for neurophysiology"
+    excerpt: "Pt/ITO probes for neurophysiology"
   - image_path: /assets/img/syringe pump.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
