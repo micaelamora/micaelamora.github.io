@@ -16,9 +16,9 @@ feature_row:
     title: "Ph sensor for pools"
     excerpt: "Ph sensor for pools"
   - image_path: /assets/img/copperelectroplatedmoldnew.jpeg
-    alt: "electroplated mold for microfluidic devices"
-    title: "Electroplated mold for microfluidic devices"
-    excerpt: "Electroplated mold for microfluidic devices"
+    alt: "Copper electroplated mold for microfluidic devices"
+    title: "Copper electroplated mold for microfluidic devices"
+    excerpt: "Copper electroplated mold for microfluidic devices"
   - image_path: /assets/img/SkateBoardMountrenderpic.png
     alt: "Pt/ITO probes for neurophysiology"
     title: "Pt/ITO probes for neurophysiology"
