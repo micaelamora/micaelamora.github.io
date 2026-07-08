@@ -15,7 +15,7 @@ feature_row:
     alt: "Ph sensor for pools"
     title: "Ph sensor for pools"
     excerpt: "Ph sensor for pools"
-  - image_path: /assets/img/copperelectroplatedmoldnew.jpeg
+  - image_path: /assets/img/copperelectroplatedmold square.jpeg
     alt: "Copper electroplated mold for microfluidic devices"
     title: "Copper electroplated mold for microfluidic devices"
     excerpt: "Copper electroplated mold for microfluidic devices"
