@@ -3,7 +3,7 @@
 title: "About Micaela Mora"
 
 ---
-I am an international student from Asunción, Paraguay, highly interested in the semiconductor manufacturing industry. 
+I am an international student from Asunción, Paraguay. I am interested in the semiconductor, manufacturing, and design industry. 
 
 ## Education
 
@@ -15,11 +15,12 @@ Micaela is a mechanical engineering student.
 
 ## Work Experience
 
-* Nissha Medical Technologies
-   * Incoming Summer Intern (June 2026 -  August 2026)
 *  Vanderbilt Institute of Nanoscale Science and Engineering
-   * Associate Tech Crew  (August 2025 - Present)
+   * Senior Tech Crew (August 2026 - Present)
+   * Associate Tech Crew  (August 2025 - May 2026)
    * Summer Tech Crew Intern (May 2025 - August 2025) 
+* Nissha Medical Technologies
+   * Summer Intern (June 2026 -  August 2026)
 *  Gonzales Lab at Vanderbilt
    * Undergraduate Research Assistant (August 2024 - Present)  
   
