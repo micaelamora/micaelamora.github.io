@@ -46,7 +46,7 @@ feature_row:
   - image_path: /assets/img/holder for phones.png
     alt: "Adaptable phone holder for bikes"
     title: "Bike Phone Holder"
-    excerpt: "Adaptable phone holder for bikes "
+    excerpt: "Adaptable phone holder for bikes"
   - image_path: /assets/img/Paddleboardhorizontal.png
     alt: "Pickleball Paddle"
     title: "Pickleball Paddle"
@@ -54,7 +54,7 @@ feature_row:
   - image_path: /assets/img/SkateBoardMountrenderpic.png
     alt: "SkateBoard Mount"
     title: "SkateBoard Mount"
-    excerpt: "Generative Design SLS Truck Hanger + Motor Mount "
+    excerpt: "Generative Design SLS Truck Hanger + Motor Mount"
 
 
 
