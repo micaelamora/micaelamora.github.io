@@ -13,16 +13,16 @@ excerpt: "Micaela Mora is a mechanical engineering student who loves building, t
 feature_row:
   - image_path: /assets/img/phsensorwpool.jpeg
     alt: "Ph sensor for pools"
-    title: "Ph sensor for pools"
-    excerpt: "Ph sensor for pools"
+    title: "Automated Pool pH Monitoring System"
+    excerpt: "Mechatronics projects involving relay and pH sensors"
   - image_path: /assets/img/copperelectroplatedmold square.jpeg
     alt: "Copper electroplated mold for microfluidic devices"
     title: "Copper electroplated mold for microfluidic devices"
-    excerpt: "Copper electroplated mold for microfluidic devices"
+    excerpt: "4 Different patterns on a 4" Si wafer"
   - image_path: /assets/img/electrodes for neural probe.jpeg
     alt: "Pt/ITO electrodes for neural probes"
     title: "Pt/ITO electrodes for neural probes"
-    excerpt: "Pt/ITO electrodes for neural probes"
+    excerpt: "Neural Probes with electrode array"
   - image_path: /assets/img/syringe pump.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
