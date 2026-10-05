@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/img/copperelectroplatedmold square.jpeg
     alt: "Copper electroplated mold for microfluidic devices"
     title: "Copper electroplated mold for microfluidic devices"
-    excerpt: "4 Different patterns on a 4" Si wafer"
+    excerpt: "4 Different patterns on a 4 in Si wafer"
   - image_path: /assets/img/electrodes for neural probe.jpeg
     alt: "Pt/ITO electrodes for neural probes"
     title: "Pt/ITO electrodes for neural probes"
