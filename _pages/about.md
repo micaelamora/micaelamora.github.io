@@ -28,19 +28,20 @@ Micaela is a mechanical engineering student.
 
 Micaela can operate a number of different semiconductor manufacturing and characterization tools including:
 
-* Sputter Deposition - AJA ATC-2200
-* Multimode Deposition Chamber - Angstrom Amod - Combined E-beam, Resistive & Sputter Deposition Chamber
-* Reactive Ion Etch Chlorine - Trion Minilock II RIE
-* Stylus Profilometer - KLA Tencor P-7
-* Stylus Profilometer - Bruker Dektak 150
-* Scanning Electron Microscope - Zeiss Merlin with Gemini II Column
-* Parylene Coater - SCS Labcoter 3
-* Four Point Probe - Ossila T2001A
-* Spectroscopic Ellipsometer - JA Woollam M-2000VI
-* Spectrophotometer - Agilent Technologies Cary 5000 UV-VIS-NIR
+* Sputter Deposition 
+* Multimode Deposition Chamber - Combined E-beam, Resistive & Sputter Deposition Chamber
+* Reactive Ion Etch Chlorine 
+* Stylus Profilometer
+* Scanning Electron Microscope 
+* Parylene Coater 
+* Four Point Probe
+* Spectroscopic Ellipsometer 
+* Spectrophotometer 
 * Electroplating Systems (Copper and Nickel)
-* Mask Aligner - Karl Suss MA-6
-* Vacuum Oven - Thermo Scientific Lindberg Blue M
+* Mask Aligner
+* PECVD 
+* Vacuum Oven
+* Ion Wave 10 Gas Plasma System
 * Assorted spin coaters and hot plates
 
 
