@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/img/phsensorwpool.jpeg
     alt: "Ph sensor for pools"
     title: "Automated Pool pH Monitoring System"
-    excerpt: "Mechatronics project involving relay and pH sensors"
+    excerpt: "Mechatronics project involving relay, pH sensors and pumps"
   - image_path: /assets/img/copperelectroplatedmold square.jpeg
     alt: "Copper electroplated mold for microfluidic devices"
     title: "Copper electroplated mold for microfluidic devices"
