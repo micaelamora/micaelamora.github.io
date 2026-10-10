@@ -11,6 +11,10 @@ header:
       url: "/portfolio/"
 excerpt: "Micaela Mora is a mechanical engineering student who loves building, testing, and improving how things are made. She’s especially interested in sustainable manufacturing, 3D printing, and materials processing, with hands-on experience with thin-film deposition, and lab-scale fabrication."
 feature_row:
+  - image_path: /assets/img/SkateBoardMountrenderpic.png
+    alt: "Steel Beam"
+    title: "Steel Beam"
+    excerpt: "Steel Beam Description"
   - image_path: /assets/img/phsensorwpool.jpeg
     alt: "Ph sensor for pools"
     title: "Automated Pool pH Monitoring System"
