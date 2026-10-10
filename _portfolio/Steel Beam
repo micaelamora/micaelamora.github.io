@@ -1,1 +1,34 @@
+---
+title: "Mold for microfluidic devices"
+layout: single
+classes: wide
+author_profile: false
+sidebar:
+  nav: false
 
+category: personal
+excerpt: "Mold for microfluidic devices"
+
+header:
+  image: /assets/img/copperelectroplatedmoldnew.jpeg
+  teaser: /assets/img/copperelectroplatedmoldnew.jpeg
+
+gallery:
+
+  - url: /assets/img/setupforelectroplating.jpeg
+    image_path: /assets/img/setupforelectroplating.jpeg
+    alt: "Setup before etching the mold"
+
+
+---
+
+<style>
+.gallery img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+</style>
+
+# Description of the Prototype
