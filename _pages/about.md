@@ -43,7 +43,7 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 * Mask Aligner
 * PECVD 
 * Vacuum Oven
-* Ion Wave 10 Gas Plasma System
+* Plasma Ashing
 * Assorted spin coaters and hot plates
 
 
