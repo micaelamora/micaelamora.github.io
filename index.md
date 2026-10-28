@@ -14,7 +14,6 @@ feature_row:
   - image_path: /assets/img/SkateBoardMountrenderpic.png
     alt: "Steel Beam"
     title: "Steel Beam"
-    excerpt: "Steel Beam Description"
   - image_path: /assets/img/phsensorwpool.jpeg
     alt: "Ph sensor for pools"
     title: "Automated Pool pH Monitoring System"
