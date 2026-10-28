@@ -56,7 +56,7 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 ## Research and Publications
 * ITO and Pt Deposition for Improved Performance of Neural Probe
   
-<a href="/assets/img/Poster Final Project MAD.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+<a href="/assets/img/Micaela_Poster_Spring26.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
 
 * Developing an Electroplating Technique for Soft Lithography
   
