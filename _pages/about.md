@@ -18,7 +18,9 @@ Micaela is a mechanical engineering student.
 *  Vanderbilt Institute of Nanoscale Science and Engineering
    * Senior Tech Crew (August 2026 - Present)
    * Associate Tech Crew  (August 2025 - May 2026)
-   * Summer Tech Crew Intern (May 2025 - August 2025) 
+   * Summer Tech Crew Intern (May 2025 - August 2025)
+* Vanderbilt Department of Civil Engineering
+   *  Welding Laboratory Teaching Assistant (August 2026 - Present)   
 * Nissha Medical Technologies
    * Summer Intern (June 2026 -  August 2026)
 *  Gonzales Lab at Vanderbilt
@@ -52,6 +54,10 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 * Laser Cutting
 
 ## Research and Publications
+* ITO and Pt Deposition for Improved Performance of Neural Probe
+  
+<a href="/assets/img/Poster Final Project MAD.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
+
 * Developing an Electroplating Technique for Soft Lithography
   
 <a href="/assets/img/electroplating poster.pdf" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Research Poster</a>
@@ -64,6 +70,10 @@ Micaela can operate a number of different semiconductor manufacturing and charac
 * VINSE Image Competition
 
 <a href="https://www.vanderbilt.edu/vinse/2025/10/29/congratulations-to-the-winners-of-the-2026-vinse-image-competition/" target="_blank" style="padding:10px 20px; background-color:#808080; color:white; text-decoration:none; border-radius:5px;">View Award</a>
+
+* Paraguayan National Math Olympiad: State Champion (2016), Bronze Medal (2018, 2020), Silver Medal (2021)
+* International Tarbut Math Olympiad: Gold Medalist (2017)
+* Iranian Geometry Olympiad: Paraguayan Team (2020)
 
   
 
